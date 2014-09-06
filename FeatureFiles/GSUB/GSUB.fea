@@ -13,6 +13,7 @@
 #--- Language Systems ---
 
 languagesystem DFLT dflt;
+languagesystem latn dflt;
 languagesystem deva dflt;
 languagesystem dev2 dflt;
 languagesystem deva MAR;
@@ -2068,54 +2069,13 @@ lookup rakaar {
 
 #-------------
 
-lookup vattu {
-    sub dv_Ka dv_Halant dv_Ra by dv_KRa;
-    sub dv_Kha dv_Halant dv_Ra by dv_KhRa;
-    sub dv_Ga dv_Halant dv_Ra by dv_GRa;
-    sub dv_Gha dv_Halant dv_Ra by dv_GhRa;
-    sub dv_Ca dv_Halant dv_Ra by dv_CRa;
-    sub dv_Ja dv_Halant dv_Ra by dv_JRa;
-    sub dv_Jha dv_Halant dv_Ra by dv_JhRa;
-    sub dv_Ta dv_Halant dv_Ra by dv_TRa;
-    sub dv_Tha dv_Halant dv_Ra by dv_ThRa;
-    sub dv_Da dv_Halant dv_Ra by dv_DRa;
-    sub dv_Dha dv_Halant dv_Ra by dv_DhRa;
-    sub dv_Na dv_Halant dv_Ra by dv_NRa;
-    sub dv_Pa dv_Halant dv_Ra by dv_PRa;
-    sub dv_Pha dv_Halant dv_Ra by dv_PhRa;
-    sub dv_Ba dv_Halant dv_Ra by dv_BRa;
-    sub dv_Bha dv_Halant dv_Ra by dv_BhRa;
-    sub dv_Ma dv_Halant dv_Ra by dv_MRa;
-    sub dv_Ya dv_Halant dv_Ra by dv_YRa;
-    sub dv_La dv_Halant dv_Ra by dv_LRa;
-    sub dv_Va dv_Halant dv_Ra by dv_VRa;
-    sub dv_Sha dv_Halant dv_Ra by dv_ShRa;
-    sub dv_Ssa dv_Halant dv_Ra by dv_SsRa;
-    sub dv_Sa dv_Halant dv_Ra by dv_SRa;
-    sub dv_Ha dv_Halant dv_Ra by dv_HRa;
-    sub dv_Qa dv_Halant dv_Ra by dv_QRa;
-    sub dv_Khha dv_Halant dv_Ra by dv_KhhRa;
-    sub dv_Ghha dv_Halant dv_Ra by dv_GhhRa;
-    sub dv_Za dv_Halant dv_Ra by dv_ZRa;
-    sub dv_Fa dv_Halant dv_Ra by dv_FRa;
-    sub dv_Yya dv_Halant dv_Ra by dv_YyRa;
-    sub dv_KSsa dv_Halant dv_Ra by dv_KSsRa;
-    sub dv_Nya dv_Halant dv_Ra by dv_NyRa;
-    sub dv_Nna dv_Halant dv_Ra by dv_NnRa;
-    sub dv_Nga dv_Halant dv_Ra by dv_NgRa;
-    sub dv_Tta dv_Halant dv_Ra by dv_TtRa;
-    sub dv_Ttha dv_Halant dv_Ra by dv_TthRa;
-    sub dv_Dda dv_Halant dv_Ra by dv_DdRa;
-    sub dv_Ddha dv_Halant dv_Ra by dv_DdhRa;
-    sub dv_Cha dv_Halant dv_Ra by dv_ChRa;
-    sub dv_Nnna dv_Halant dv_Ra by dv_NnnRa;
-} vattu ;
+lookup below_base_form_sub_1 {
+    sub dv_Ra dv_Halant by dv_Rakar;
+} below_base_form_sub_1 ;
 
-#-------------
-
-lookup below_base_form_sub {
+lookup below_base_form_sub_2 {
     sub dv_Halant dv_Ra by dv_Rakar;
-} below_base_form_sub ;
+} below_base_form_sub_2 ;
 
 #-------------
 
@@ -2185,6 +2145,51 @@ lookup half_forms {
     sub dv_Ha dv_Halant by dv_H.half;
     sub dv_J.half dv_N.half by dv_JNy.half;
 } half_forms ;
+
+#-------------
+
+lookup vattu_variants {
+    sub dv_Ka dv_Rakar by dv_KRa;
+    sub dv_Kha dv_Rakar by dv_KhRa;
+    sub dv_Ga dv_Rakar by dv_GRa;
+    sub dv_Gha dv_Rakar by dv_GhRa;
+    sub dv_Ca dv_Rakar by dv_CRa;
+    sub dv_Ja dv_Rakar by dv_JRa;
+    sub dv_Jha dv_Rakar by dv_JhRa;
+    sub dv_Ta dv_Rakar by dv_TRa;
+    sub dv_Tha dv_Rakar by dv_ThRa;
+    sub dv_Da dv_Rakar by dv_DRa;
+    sub dv_Dha dv_Rakar by dv_DhRa;
+    sub dv_Na dv_Rakar by dv_NRa;
+    sub dv_Pa dv_Rakar by dv_PRa;
+    sub dv_Pha dv_Rakar by dv_PhRa;
+    sub dv_Ba dv_Rakar by dv_BRa;
+    sub dv_Bha dv_Rakar by dv_BhRa;
+    sub dv_Ma dv_Rakar by dv_MRa;
+    sub dv_Ya dv_Rakar by dv_YRa;
+    sub dv_La dv_Rakar by dv_LRa;
+    sub dv_Va dv_Rakar by dv_VRa;
+    sub dv_Sha dv_Rakar by dv_ShRa;
+    sub dv_Ssa dv_Rakar by dv_SsRa;
+    sub dv_Sa dv_Rakar by dv_SRa;
+    sub dv_Ha dv_Rakar by dv_HRa;
+    sub dv_Qa dv_Rakar by dv_QRa;
+    sub dv_Khha dv_Rakar by dv_KhhRa;
+    sub dv_Ghha dv_Rakar by dv_GhhRa;
+    sub dv_Za dv_Rakar by dv_ZRa;
+    sub dv_Fa dv_Rakar by dv_FRa;
+    sub dv_Yya dv_Rakar by dv_YyRa;
+    sub dv_KSsa dv_Rakar by dv_KSsRa;
+    sub dv_Nya dv_Rakar by dv_NyRa;
+    sub dv_Nna dv_Rakar by dv_NnRa;
+    sub dv_Nga dv_Rakar by dv_NgRa;
+    sub dv_Tta dv_Rakar by dv_TtRa;
+    sub dv_Ttha dv_Rakar by dv_TthRa;
+    sub dv_Dda dv_Rakar by dv_DdRa;
+    sub dv_Ddha dv_Rakar by dv_DdhRa;
+    sub dv_Cha dv_Rakar by dv_ChRa;
+    sub dv_Nnna dv_Rakar by dv_NnnRa;
+} vattu_variants ;
 
 #-------------
 
@@ -3055,15 +3060,9 @@ feature rkrf {
             lookup rakaar;
     script dev2;
             lookup rakaar;
-        language MAR;
+    language MAR;
             lookup rakaar;
-        language NEP;
-            lookup rakaar;
-    script deva;
-            lookup rakaar;
-        language MAR;
-            lookup rakaar;
-        language NEP;
+    language NEP;
             lookup rakaar;
 } rkrf ;
 
@@ -3071,19 +3070,20 @@ feature rkrf {
 
 feature blwf {
     script DFLT;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_1;
+            lookup below_base_form_sub_2;
     script dev2;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_2;
         language MAR;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_2;
         language NEP;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_2;
     script deva;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_1;
         language MAR;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_1;
         language NEP;
-            lookup below_base_form_sub;
+            lookup below_base_form_sub_1;
 } blwf ;
 
 #-------------
@@ -3347,19 +3347,11 @@ feature haln {
 
 feature vatu {
     script DFLT;
-            lookup vattu;
-    script dev2;
-            lookup vattu;
-        language MAR;
-            lookup vattu;
-        language NEP;
-            lookup vattu;
+            lookup vattu_variants;
     script deva;
-            lookup vattu;
+            lookup vattu_variants;
         language MAR;
-            lookup vattu;
         language NEP;
-            lookup vattu;
 } vatu ;
 
 #-------------
