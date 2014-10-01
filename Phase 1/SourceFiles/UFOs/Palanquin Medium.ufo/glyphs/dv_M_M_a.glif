@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MMa" format="1">
+  <advance width="1011"/>
+  <outline>
+    <contour>
+      <point x="796" y="241" type="line"/>
+      <point x="796" y="0" type="line"/>
+      <point x="901" y="-16" type="line"/>
+      <point x="901" y="597" type="line"/>
+      <point x="1022" y="597" type="line"/>
+      <point x="1007" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="652"/>
+      <point x="-1" y="625"/>
+      <point x="4" y="597" type="curve"/>
+      <point x="117" y="597" type="line"/>
+      <point x="117" y="322" type="line"/>
+      <point x="68" y="322"/>
+      <point x="48" y="298"/>
+      <point x="48" y="275" type="curve" smooth="yes"/>
+      <point x="48" y="216"/>
+      <point x="111" y="160"/>
+      <point x="176" y="160" type="curve" smooth="yes"/>
+      <point x="201" y="160"/>
+      <point x="220" y="178"/>
+      <point x="220" y="241" type="curve"/>
+      <point x="395" y="241" type="line"/>
+      <point x="413" y="197"/>
+      <point x="464" y="160"/>
+      <point x="517" y="160" type="curve" smooth="yes"/>
+      <point x="541" y="160"/>
+      <point x="561" y="190"/>
+      <point x="561" y="241" type="curve"/>
+    </contour>
+    <contour>
+      <point x="796" y="597" type="line"/>
+      <point x="796" y="322" type="line"/>
+      <point x="561" y="322" type="line"/>
+      <point x="561" y="597" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="322" type="line"/>
+      <point x="219" y="597" type="line"/>
+      <point x="458" y="597" type="line"/>
+      <point x="458" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

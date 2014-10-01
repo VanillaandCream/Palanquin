@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="1">
+  <advance width="356"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="309" y="90" type="line"/>
+      <point x="293" y="83"/>
+      <point x="276" y="78"/>
+      <point x="259" y="78" type="curve"/>
+      <point x="211" y="78"/>
+      <point x="189" y="114"/>
+      <point x="189" y="164" type="curve"/>
+      <point x="189" y="395" type="line"/>
+      <point x="312" y="395" type="line"/>
+      <point x="277" y="482" type="line"/>
+      <point x="189" y="482" type="line"/>
+      <point x="189" y="622" type="line"/>
+      <point x="76" y="599" type="line"/>
+      <point x="76" y="482" type="line"/>
+      <point x="10" y="482" type="line"/>
+      <point x="10" y="395" type="line"/>
+      <point x="76" y="395" type="line"/>
+      <point x="76" y="145" type="line"/>
+      <point x="76" y="63"/>
+      <point x="116" y="9"/>
+      <point x="184" y="-10" type="curve"/>
+      <point x="157" y="-77" type="line"/>
+      <point x="209" y="-82"/>
+      <point x="245" y="-102"/>
+      <point x="245" y="-124" type="curve"/>
+      <point x="245" y="-141"/>
+      <point x="224" y="-146"/>
+      <point x="206" y="-146" type="curve"/>
+      <point x="188" y="-146"/>
+      <point x="158" y="-136"/>
+      <point x="142" y="-128" type="curve"/>
+      <point x="115" y="-195" type="line"/>
+      <point x="136" y="-211"/>
+      <point x="179" y="-221"/>
+      <point x="206" y="-221" type="curve"/>
+      <point x="269" y="-221"/>
+      <point x="328" y="-190"/>
+      <point x="328" y="-122" type="curve"/>
+      <point x="328" y="-87"/>
+      <point x="296" y="-49"/>
+      <point x="256" y="-35" type="curve"/>
+      <point x="263" y="-17" type="line"/>
+      <point x="290" y="-15"/>
+      <point x="323" y="-5"/>
+      <point x="341" y="7" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

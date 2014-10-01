@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="1">
+  <advance width="288"/>
+  <outline>
+    <contour>
+      <point x="16" y="859" type="line"/>
+      <point x="16" y="770" type="line"/>
+      <point x="273" y="770" type="line"/>
+      <point x="273" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

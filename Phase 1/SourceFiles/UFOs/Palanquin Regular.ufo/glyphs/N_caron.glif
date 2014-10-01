@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="1">
+  <advance width="713"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="533" type="line"/>
+      <point x="204" y="489" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="680" type="line"/>
+      <point x="534" y="680" type="line"/>
+      <point x="534" y="153" type="line"/>
+      <point x="493" y="220" type="line"/>
+      <point x="162" y="680" type="line"/>
+      <point x="99" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="894" type="line"/>
+      <point x="335" y="739" type="line"/>
+      <point x="397" y="739" type="line"/>
+      <point x="515" y="894" type="line"/>
+      <point x="439" y="894" type="line"/>
+      <point x="414" y="862"/>
+      <point x="391" y="830"/>
+      <point x="367" y="797" type="curve"/>
+      <point x="294" y="894" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

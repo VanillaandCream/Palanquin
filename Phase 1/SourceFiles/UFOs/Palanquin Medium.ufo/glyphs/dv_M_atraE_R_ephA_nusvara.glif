@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraERephAnusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-65" y="630" type="line"/>
+      <point x="-126" y="689" type="line"/>
+      <point x="-148" y="718"/>
+      <point x="-169" y="769"/>
+      <point x="-169" y="808" type="curve" smooth="yes"/>
+      <point x="-169" y="849"/>
+      <point x="-142" y="887"/>
+      <point x="-105" y="887" type="curve" smooth="yes"/>
+      <point x="-75" y="887"/>
+      <point x="-57" y="877"/>
+      <point x="-36" y="865" type="curve"/>
+      <point x="3" y="932" type="line"/>
+      <point x="-19" y="952"/>
+      <point x="-63" y="972"/>
+      <point x="-118" y="972" type="curve" smooth="yes"/>
+      <point x="-206" y="972"/>
+      <point x="-255" y="898"/>
+      <point x="-262" y="824" type="curve"/>
+      <point x="-391" y="953" type="line"/>
+      <point x="-470" y="894" type="line"/>
+      <point x="-184" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="-103" y="741"/>
+      <point x="-77" y="716"/>
+      <point x="-45" y="716" type="curve" smooth="yes"/>
+      <point x="-12" y="716"/>
+      <point x="14" y="741"/>
+      <point x="14" y="774" type="curve" smooth="yes"/>
+      <point x="14" y="807"/>
+      <point x="-12" y="833"/>
+      <point x="-45" y="833" type="curve" smooth="yes"/>
+      <point x="-77" y="833"/>
+      <point x="-103" y="807"/>
+      <point x="-103" y="774" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

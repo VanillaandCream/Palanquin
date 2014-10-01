@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraICandraBindu.2" format="1">
+  <advance width="326"/>
+  <outline>
+    <contour>
+      <point x="506" y="860"/>
+      <point x="931" y="752"/>
+      <point x="1069" y="706" type="curve"/>
+      <point x="1107" y="771" type="line"/>
+      <point x="978" y="816"/>
+      <point x="539" y="946"/>
+      <point x="307" y="946" type="curve"/>
+      <point x="150" y="946"/>
+      <point x="72" y="870"/>
+      <point x="72" y="766" type="curve"/>
+      <point x="72" y="722"/>
+      <point x="86" y="695"/>
+      <point x="95" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+      <point x="110" y="597" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="215" y="-16" type="line"/>
+      <point x="215" y="597" type="line"/>
+      <point x="337" y="597" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="202" y="680" type="line"/>
+      <point x="193" y="691"/>
+      <point x="171" y="717"/>
+      <point x="171" y="761" type="curve"/>
+      <point x="171" y="815"/>
+      <point x="216" y="860"/>
+      <point x="317" y="860" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1139" y="952" type="line"/>
+      <point x="1115" y="908"/>
+      <point x="1081" y="889"/>
+      <point x="1047" y="889" type="curve"/>
+      <point x="1011" y="889"/>
+      <point x="975" y="910"/>
+      <point x="953" y="952" type="curve"/>
+      <point x="911" y="926" type="line"/>
+      <point x="942" y="866"/>
+      <point x="990" y="842"/>
+      <point x="1047" y="842" type="curve"/>
+      <point x="1102" y="842"/>
+      <point x="1151" y="865"/>
+      <point x="1182" y="926" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1007" y="938"/>
+      <point x="1024" y="920"/>
+      <point x="1047" y="920" type="curve"/>
+      <point x="1068" y="920"/>
+      <point x="1087" y="938"/>
+      <point x="1087" y="960" type="curve"/>
+      <point x="1087" y="981"/>
+      <point x="1068" y="999"/>
+      <point x="1047" y="999" type="curve"/>
+      <point x="1024" y="999"/>
+      <point x="1007" y="981"/>
+      <point x="1007" y="960" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

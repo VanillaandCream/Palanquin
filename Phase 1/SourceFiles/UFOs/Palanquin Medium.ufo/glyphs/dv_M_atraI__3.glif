@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraI.3" format="1">
+  <advance width="326"/>
+  <outline>
+    <contour>
+      <point x="461" y="860"/>
+      <point x="791" y="761"/>
+      <point x="918" y="706" type="curve"/>
+      <point x="956" y="771" type="line"/>
+      <point x="853" y="820"/>
+      <point x="484" y="946"/>
+      <point x="309" y="946" type="curve"/>
+      <point x="153" y="946"/>
+      <point x="72" y="870"/>
+      <point x="72" y="766" type="curve"/>
+      <point x="72" y="722"/>
+      <point x="86" y="695"/>
+      <point x="95" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+      <point x="110" y="597" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="215" y="-16" type="line"/>
+      <point x="215" y="597" type="line"/>
+      <point x="337" y="597" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="202" y="680" type="line"/>
+      <point x="193" y="691"/>
+      <point x="171" y="717"/>
+      <point x="171" y="761" type="curve"/>
+      <point x="171" y="815"/>
+      <point x="219" y="860"/>
+      <point x="320" y="860" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

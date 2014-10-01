@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Zero" format="1">
+  <advance width="701"/>
+  <unicode hex="0966"/>
+  <outline>
+    <contour>
+      <point x="188" y="622"/>
+      <point x="69" y="496"/>
+      <point x="69" y="339" type="curve" smooth="yes"/>
+      <point x="69" y="183"/>
+      <point x="188" y="57"/>
+      <point x="351" y="57" type="curve" smooth="yes"/>
+      <point x="513" y="57"/>
+      <point x="633" y="183"/>
+      <point x="633" y="339" type="curve" smooth="yes"/>
+      <point x="633" y="496"/>
+      <point x="513" y="622"/>
+      <point x="351" y="622" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="225" y="118"/>
+      <point x="139" y="209"/>
+      <point x="139" y="339" type="curve" smooth="yes"/>
+      <point x="139" y="470"/>
+      <point x="225" y="561"/>
+      <point x="351" y="561" type="curve" smooth="yes"/>
+      <point x="477" y="561"/>
+      <point x="562" y="470"/>
+      <point x="562" y="339" type="curve" smooth="yes"/>
+      <point x="562" y="209"/>
+      <point x="477" y="118"/>
+      <point x="351" y="118" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

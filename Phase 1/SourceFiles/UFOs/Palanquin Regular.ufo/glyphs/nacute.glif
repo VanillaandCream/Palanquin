@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="1">
+  <advance width="559"/>
+  <unicode hex="0144"/>
+  <outline>
+    <contour>
+      <point x="265" y="499"/>
+      <point x="193" y="462"/>
+      <point x="151" y="415" type="curve"/>
+      <point x="126" y="485" type="line"/>
+      <point x="78" y="485" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="353" type="line"/>
+      <point x="200" y="403"/>
+      <point x="267" y="432"/>
+      <point x="309" y="432" type="curve"/>
+      <point x="376" y="431"/>
+      <point x="407" y="384"/>
+      <point x="407" y="318" type="curve"/>
+      <point x="407" y="1" type="line"/>
+      <point x="486" y="1" type="line"/>
+      <point x="486" y="329" type="line"/>
+      <point x="486" y="427"/>
+      <point x="434" y="499"/>
+      <point x="323" y="499" type="curve"/>
+    </contour>
+    <contour>
+      <point x="312" y="745" type="line"/>
+      <point x="252" y="589" type="line"/>
+      <point x="312" y="589" type="line"/>
+      <point x="400" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

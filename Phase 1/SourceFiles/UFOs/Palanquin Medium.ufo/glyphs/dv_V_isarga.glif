@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Visarga" format="1">
+  <advance width="176"/>
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="22" y="429"/>
+      <point x="51" y="401"/>
+      <point x="87" y="401" type="curve"/>
+      <point x="124" y="401"/>
+      <point x="153" y="429"/>
+      <point x="153" y="465" type="curve"/>
+      <point x="153" y="501"/>
+      <point x="124" y="531"/>
+      <point x="87" y="531" type="curve"/>
+      <point x="51" y="531"/>
+      <point x="22" y="501"/>
+      <point x="22" y="465" type="curve"/>
+    </contour>
+    <contour>
+      <point x="22" y="83"/>
+      <point x="51" y="55"/>
+      <point x="87" y="55" type="curve"/>
+      <point x="124" y="55"/>
+      <point x="153" y="83"/>
+      <point x="153" y="120" type="curve"/>
+      <point x="153" y="156"/>
+      <point x="124" y="185"/>
+      <point x="87" y="185" type="curve"/>
+      <point x="51" y="185"/>
+      <point x="22" y="156"/>
+      <point x="22" y="120" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

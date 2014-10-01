@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t" format="1">
+  <advance width="325"/>
+  <unicode hex="0074"/>
+  <outline>
+    <contour>
+      <point x="253" y="-15"/>
+      <point x="283" y="-5"/>
+      <point x="298" y="2" type="curve"/>
+      <point x="280" y="63" type="line"/>
+      <point x="270" y="59"/>
+      <point x="251" y="53"/>
+      <point x="236" y="53" type="curve"/>
+      <point x="186" y="53"/>
+      <point x="167" y="88"/>
+      <point x="167" y="137" type="curve"/>
+      <point x="167" y="417" type="line"/>
+      <point x="281" y="417" type="line"/>
+      <point x="255" y="477" type="line"/>
+      <point x="167" y="477" type="line"/>
+      <point x="167" y="623" type="line"/>
+      <point x="87" y="600" type="line"/>
+      <point x="87" y="477" type="line"/>
+      <point x="17" y="477" type="line"/>
+      <point x="18" y="417" type="line"/>
+      <point x="87" y="417" type="line"/>
+      <point x="87" y="126" type="line"/>
+      <point x="87" y="34"/>
+      <point x="141" y="-15"/>
+      <point x="224" y="-15" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

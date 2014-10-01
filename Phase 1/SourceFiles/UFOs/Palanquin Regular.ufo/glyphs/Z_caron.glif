@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+  <advance width="569"/>
+  <unicode hex="017D"/>
+  <outline>
+    <contour>
+      <point x="530" y="0" type="line"/>
+      <point x="522" y="62" type="line"/>
+      <point x="109" y="62" type="line"/>
+      <point x="253" y="248"/>
+      <point x="395" y="432"/>
+      <point x="539" y="617" type="curve"/>
+      <point x="531" y="680" type="line"/>
+      <point x="50" y="680" type="line"/>
+      <point x="53" y="659"/>
+      <point x="58" y="638"/>
+      <point x="61" y="617" type="curve"/>
+      <point x="451" y="617" type="line"/>
+      <point x="308" y="432"/>
+      <point x="165" y="248"/>
+      <point x="22" y="62" type="curve"/>
+      <point x="31" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="894" type="line"/>
+      <point x="257" y="739" type="line"/>
+      <point x="319" y="739" type="line"/>
+      <point x="437" y="894" type="line"/>
+      <point x="361" y="894" type="line"/>
+      <point x="336" y="862"/>
+      <point x="313" y="830"/>
+      <point x="289" y="797" type="curve"/>
+      <point x="216" y="894" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

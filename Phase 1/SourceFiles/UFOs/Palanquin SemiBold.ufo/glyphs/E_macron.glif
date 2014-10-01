@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacron" format="1">
+  <advance width="566"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="537" y="29"/>
+      <point x="531" y="58"/>
+      <point x="526" y="88" type="curve"/>
+      <point x="201" y="88" type="line"/>
+      <point x="201" y="300" type="line"/>
+      <point x="405" y="300" type="line"/>
+      <point x="399" y="329"/>
+      <point x="393" y="359"/>
+      <point x="388" y="389" type="curve"/>
+      <point x="201" y="389" type="line"/>
+      <point x="201" y="592" type="line"/>
+      <point x="500" y="592" type="line"/>
+      <point x="483" y="680" type="line"/>
+      <point x="89" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="859" type="line"/>
+      <point x="159" y="769" type="line"/>
+      <point x="416" y="769" type="line"/>
+      <point x="416" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

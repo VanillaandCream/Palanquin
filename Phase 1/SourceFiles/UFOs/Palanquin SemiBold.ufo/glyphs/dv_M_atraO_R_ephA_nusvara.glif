@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraORephAnusvara" format="1">
+  <advance width="332"/>
+  <outline>
+    <contour>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="647"/>
+      <point x="0" y="615"/>
+      <point x="5" y="583" type="curve"/>
+      <point x="103" y="583" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="227" y="-16" type="line"/>
+      <point x="227" y="583" type="line"/>
+      <point x="343" y="583" type="line"/>
+      <point x="338" y="615"/>
+      <point x="332" y="647"/>
+      <point x="326" y="680" type="curve"/>
+      <point x="215" y="680" type="line"/>
+      <point x="193" y="707"/>
+      <point x="170" y="763"/>
+      <point x="170" y="804" type="curve" smooth="yes"/>
+      <point x="170" y="843"/>
+      <point x="197" y="877"/>
+      <point x="230" y="877" type="curve" smooth="yes"/>
+      <point x="256" y="877"/>
+      <point x="274" y="868"/>
+      <point x="294" y="856" type="curve"/>
+      <point x="340" y="935" type="line"/>
+      <point x="315" y="958"/>
+      <point x="268" y="978"/>
+      <point x="212" y="978" type="curve" smooth="yes"/>
+      <point x="125" y="978"/>
+      <point x="69" y="904"/>
+      <point x="61" y="832" type="curve"/>
+      <point x="18" y="874"/>
+      <point x="-24" y="917"/>
+      <point x="-66" y="959" type="curve"/>
+      <point x="-96" y="935"/>
+      <point x="-126" y="912"/>
+      <point x="-157" y="889" type="curve"/>
+      <point x="69" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="734"/>
+      <point x="258" y="707"/>
+      <point x="293" y="707" type="curve" smooth="yes"/>
+      <point x="328" y="707"/>
+      <point x="355" y="734"/>
+      <point x="355" y="769" type="curve" smooth="yes"/>
+      <point x="355" y="804"/>
+      <point x="328" y="831"/>
+      <point x="293" y="831" type="curve" smooth="yes"/>
+      <point x="258" y="831"/>
+      <point x="232" y="804"/>
+      <point x="232" y="769" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

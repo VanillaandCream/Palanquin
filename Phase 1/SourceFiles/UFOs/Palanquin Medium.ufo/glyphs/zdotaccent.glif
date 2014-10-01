@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="1">
+  <advance width="460"/>
+  <unicode hex="017C"/>
+  <outline>
+    <contour>
+      <point x="425" y="437" type="line"/>
+      <point x="420" y="490" type="line"/>
+      <point x="49" y="490" type="line"/>
+      <point x="70" y="412" type="line"/>
+      <point x="295" y="412" type="line"/>
+      <point x="29" y="50" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="417" y="76" type="line"/>
+      <point x="156" y="76" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="700"/>
+      <point x="288" y="727"/>
+      <point x="253" y="727" type="curve"/>
+      <point x="219" y="727"/>
+      <point x="193" y="700"/>
+      <point x="193" y="666" type="curve"/>
+      <point x="193" y="632"/>
+      <point x="219" y="606"/>
+      <point x="253" y="606" type="curve"/>
+      <point x="288" y="606"/>
+      <point x="314" y="632"/>
+      <point x="314" y="666" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="484"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="168" y="-61" type="line"/>
+      <point x="151" y="-106"/>
+      <point x="105" y="-126"/>
+      <point x="57" y="-147" type="curve"/>
+      <point x="89" y="-221" type="line"/>
+      <point x="164" y="-204"/>
+      <point x="231" y="-155"/>
+      <point x="257" y="-88" type="curve"/>
+      <point x="309" y="58" type="line"/>
+      <point x="472" y="485" type="line"/>
+      <point x="373" y="485" type="line"/>
+      <point x="245" y="137" type="line"/>
+      <point x="110" y="485" type="line"/>
+      <point x="13" y="471" type="line"/>
+      <point x="196" y="13" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="694"/>
+      <point x="190" y="718"/>
+      <point x="159" y="718" type="curve"/>
+      <point x="130" y="718"/>
+      <point x="105" y="694"/>
+      <point x="105" y="664" type="curve"/>
+      <point x="105" y="634"/>
+      <point x="130" y="610"/>
+      <point x="159" y="610" type="curve"/>
+      <point x="190" y="610"/>
+      <point x="213" y="634"/>
+      <point x="213" y="664" type="curve"/>
+    </contour>
+    <contour>
+      <point x="387" y="694"/>
+      <point x="364" y="718"/>
+      <point x="335" y="718" type="curve"/>
+      <point x="303" y="718"/>
+      <point x="279" y="694"/>
+      <point x="279" y="664" type="curve"/>
+      <point x="279" y="634"/>
+      <point x="303" y="610"/>
+      <point x="335" y="610" type="curve"/>
+      <point x="364" y="610"/>
+      <point x="387" y="634"/>
+      <point x="387" y="664" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

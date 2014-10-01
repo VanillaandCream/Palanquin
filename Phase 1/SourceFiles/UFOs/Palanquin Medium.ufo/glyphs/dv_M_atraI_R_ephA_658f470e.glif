@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraIRephAnusvara.4" format="1">
+  <advance width="326"/>
+  <outline>
+    <contour>
+      <point x="648" y="675" type="line"/>
+      <point x="621" y="700"/>
+      <point x="590" y="761"/>
+      <point x="590" y="808" type="curve"/>
+      <point x="590" y="849"/>
+      <point x="617" y="887"/>
+      <point x="654" y="887" type="curve"/>
+      <point x="684" y="887"/>
+      <point x="702" y="877"/>
+      <point x="723" y="865" type="curve"/>
+      <point x="762" y="932" type="line"/>
+      <point x="740" y="952"/>
+      <point x="696" y="972"/>
+      <point x="641" y="972" type="curve"/>
+      <point x="569" y="972"/>
+      <point x="518" y="922"/>
+      <point x="501" y="862" type="curve"/>
+      <point x="437" y="907"/>
+      <point x="358" y="946"/>
+      <point x="272" y="946" type="curve"/>
+      <point x="140" y="946"/>
+      <point x="72" y="870"/>
+      <point x="72" y="766" type="curve"/>
+      <point x="72" y="722"/>
+      <point x="86" y="695"/>
+      <point x="95" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+      <point x="110" y="597" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="215" y="-16" type="line"/>
+      <point x="215" y="597" type="line"/>
+      <point x="337" y="597" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="202" y="680" type="line"/>
+      <point x="193" y="691"/>
+      <point x="171" y="717"/>
+      <point x="171" y="761" type="curve"/>
+      <point x="171" y="815"/>
+      <point x="205" y="860"/>
+      <point x="286" y="860" type="curve"/>
+      <point x="370" y="860"/>
+      <point x="440" y="814"/>
+      <point x="504" y="762" type="curve"/>
+      <point x="511" y="729"/>
+      <point x="528" y="693"/>
+      <point x="548" y="675" type="curve"/>
+    </contour>
+    <contour>
+      <point x="657" y="741"/>
+      <point x="682" y="716"/>
+      <point x="715" y="716" type="curve"/>
+      <point x="748" y="716"/>
+      <point x="774" y="741"/>
+      <point x="774" y="774" type="curve"/>
+      <point x="774" y="807"/>
+      <point x="748" y="833"/>
+      <point x="715" y="833" type="curve"/>
+      <point x="682" y="833"/>
+      <point x="657" y="807"/>
+      <point x="657" y="774" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ssa" format="1">
+  <advance width="667"/>
+  <unicode hex="0937"/>
+  <outline>
+    <contour>
+      <point x="451" y="0" type="line"/>
+      <point x="556" y="-16" type="line"/>
+      <point x="556" y="597" type="line"/>
+      <point x="678" y="597" type="line"/>
+      <point x="673" y="625"/>
+      <point x="668" y="652"/>
+      <point x="662" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="652"/>
+      <point x="-1" y="625"/>
+      <point x="4" y="597" type="curve"/>
+      <point x="89" y="597" type="line"/>
+      <point x="89" y="380" type="line" smooth="yes"/>
+      <point x="89" y="244"/>
+      <point x="184" y="164"/>
+      <point x="314" y="164" type="curve" smooth="yes"/>
+      <point x="364" y="164"/>
+      <point x="419" y="181"/>
+      <point x="451" y="205" type="curve"/>
+    </contour>
+    <contour>
+      <point x="236" y="252"/>
+      <point x="193" y="301"/>
+      <point x="193" y="380" type="curve" smooth="yes"/>
+      <point x="193" y="567" type="line"/>
+      <point x="266" y="480"/>
+      <point x="348" y="382"/>
+      <point x="421" y="293" type="curve"/>
+      <point x="399" y="267"/>
+      <point x="363" y="252"/>
+      <point x="319" y="252" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="451" y="378" type="line" smooth="yes"/>
+      <point x="451" y="370"/>
+      <point x="451" y="363"/>
+      <point x="449" y="356" type="curve"/>
+      <point x="245" y="597" type="line"/>
+      <point x="451" y="597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

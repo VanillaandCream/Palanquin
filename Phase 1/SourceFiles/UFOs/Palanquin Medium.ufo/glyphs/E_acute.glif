@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="552"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="513" y="75" type="line"/>
+      <point x="190" y="75" type="line"/>
+      <point x="190" y="309" type="line"/>
+      <point x="394" y="309" type="line"/>
+      <point x="389" y="333"/>
+      <point x="385" y="358"/>
+      <point x="381" y="383" type="curve"/>
+      <point x="190" y="383" type="line"/>
+      <point x="190" y="606" type="line"/>
+      <point x="490" y="606" type="line"/>
+      <point x="485" y="631"/>
+      <point x="482" y="655"/>
+      <point x="477" y="680" type="curve"/>
+      <point x="94" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="897" type="line"/>
+      <point x="223" y="739" type="line"/>
+      <point x="296" y="739" type="line"/>
+      <point x="386" y="897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

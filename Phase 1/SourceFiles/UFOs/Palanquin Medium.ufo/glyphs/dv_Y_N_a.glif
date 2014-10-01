@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_YNa" format="1">
+  <advance width="643"/>
+  <outline>
+    <contour>
+      <point x="74" y="-52"/>
+      <point x="139" y="-80"/>
+      <point x="183" y="-80" type="curve" smooth="yes"/>
+      <point x="210" y="-80"/>
+      <point x="262" y="-73"/>
+      <point x="262" y="-37" type="curve" smooth="yes"/>
+      <point x="262" y="-11"/>
+      <point x="242" y="10"/>
+      <point x="227" y="29" type="curve"/>
+      <point x="427" y="189" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="532" y="-16" type="line"/>
+      <point x="532" y="597" type="line"/>
+      <point x="654" y="597" type="line"/>
+      <point x="639" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="652"/>
+      <point x="-1" y="625"/>
+      <point x="4" y="597" type="curve"/>
+      <point x="24" y="597" type="line" smooth="yes"/>
+      <point x="96" y="597"/>
+      <point x="147" y="583"/>
+      <point x="147" y="504" type="curve" smooth="yes"/>
+      <point x="147" y="458"/>
+      <point x="125" y="397"/>
+      <point x="77" y="382" type="curve"/>
+      <point x="58" y="361" type="line"/>
+      <point x="58" y="252"/>
+      <point x="168" y="179"/>
+      <point x="266" y="168" type="curve"/>
+      <point x="236" y="145"/>
+      <point x="74" y="44"/>
+      <point x="74" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="427" y="597" type="line"/>
+      <point x="427" y="372" type="line" smooth="yes"/>
+      <point x="427" y="300"/>
+      <point x="371" y="252"/>
+      <point x="293" y="252" type="curve" smooth="yes"/>
+      <point x="237" y="252"/>
+      <point x="179" y="287"/>
+      <point x="158" y="339" type="curve"/>
+      <point x="213" y="372"/>
+      <point x="242" y="434"/>
+      <point x="242" y="498" type="curve" smooth="yes"/>
+      <point x="242" y="533"/>
+      <point x="233" y="570"/>
+      <point x="211" y="597" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

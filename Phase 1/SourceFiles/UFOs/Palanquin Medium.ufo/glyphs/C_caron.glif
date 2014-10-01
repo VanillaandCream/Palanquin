@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccaron" format="1">
+  <advance width="596"/>
+  <unicode hex="010C"/>
+  <outline>
+    <contour>
+      <point x="432" y="612"/>
+      <point x="461" y="601"/>
+      <point x="511" y="584" type="curve"/>
+      <point x="541" y="653" type="line"/>
+      <point x="492" y="682"/>
+      <point x="408" y="694"/>
+      <point x="368" y="694" type="curve"/>
+      <point x="169" y="694"/>
+      <point x="65" y="541"/>
+      <point x="65" y="336" type="curve"/>
+      <point x="65" y="145"/>
+      <point x="151" y="-14"/>
+      <point x="362" y="-14" type="curve"/>
+      <point x="419" y="-14"/>
+      <point x="499" y="3"/>
+      <point x="544" y="26" type="curve"/>
+      <point x="507" y="98" type="line"/>
+      <point x="469" y="81"/>
+      <point x="423" y="68"/>
+      <point x="358" y="68" type="curve"/>
+      <point x="222" y="68"/>
+      <point x="165" y="190"/>
+      <point x="165" y="337" type="curve"/>
+      <point x="165" y="502"/>
+      <point x="241" y="612"/>
+      <point x="366" y="612" type="curve"/>
+    </contour>
+    <contour>
+      <point x="204" y="897" type="line"/>
+      <point x="332" y="739" type="line"/>
+      <point x="398" y="739" type="line"/>
+      <point x="527" y="897" type="line"/>
+      <point x="436" y="897" type="line"/>
+      <point x="366" y="811" type="line"/>
+      <point x="295" y="897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

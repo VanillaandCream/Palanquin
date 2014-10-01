@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="1">
+  <advance width="542"/>
+  <unicode hex="016F"/>
+  <outline>
+    <contour>
+      <point x="289" y="-14"/>
+      <point x="349" y="14"/>
+      <point x="392" y="53" type="curve"/>
+      <point x="415" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="485" type="line"/>
+      <point x="385" y="485" type="line"/>
+      <point x="385" y="114" type="line"/>
+      <point x="342" y="75"/>
+      <point x="286" y="53"/>
+      <point x="249" y="53" type="curve"/>
+      <point x="183" y="53"/>
+      <point x="152" y="101"/>
+      <point x="152" y="166" type="curve"/>
+      <point x="152" y="485" type="line"/>
+      <point x="73" y="485" type="line"/>
+      <point x="73" y="157" type="line"/>
+      <point x="73" y="58"/>
+      <point x="123" y="-14"/>
+      <point x="237" y="-14" type="curve"/>
+    </contour>
+    <contour>
+      <point x="312" y="656"/>
+      <point x="294" y="638"/>
+      <point x="269" y="638" type="curve"/>
+      <point x="246" y="638"/>
+      <point x="227" y="656"/>
+      <point x="227" y="679" type="curve"/>
+      <point x="227" y="703"/>
+      <point x="246" y="722"/>
+      <point x="269" y="722" type="curve"/>
+      <point x="294" y="722"/>
+      <point x="312" y="703"/>
+      <point x="312" y="679" type="curve"/>
+    </contour>
+    <contour>
+      <point x="363" y="729"/>
+      <point x="319" y="767"/>
+      <point x="269" y="767" type="curve"/>
+      <point x="218" y="767"/>
+      <point x="175" y="729"/>
+      <point x="175" y="679" type="curve"/>
+      <point x="175" y="629"/>
+      <point x="218" y="594"/>
+      <point x="269" y="594" type="curve"/>
+      <point x="319" y="594"/>
+      <point x="363" y="629"/>
+      <point x="363" y="679" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

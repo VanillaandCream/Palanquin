@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="617"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="262" y="680" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="123" y="60"/>
+      <point x="145" y="121"/>
+      <point x="168" y="182" type="curve"/>
+      <point x="445" y="182" type="line"/>
+      <point x="514" y="4" type="line"/>
+      <point x="488" y="-19"/>
+      <point x="467" y="-68"/>
+      <point x="467" y="-102" type="curve" smooth="yes"/>
+      <point x="467" y="-162"/>
+      <point x="512" y="-207"/>
+      <point x="577" y="-207" type="curve" smooth="yes"/>
+      <point x="613" y="-207"/>
+      <point x="643" y="-196"/>
+      <point x="668" y="-175" type="curve"/>
+      <point x="638" y="-116" type="line"/>
+      <point x="623" y="-129"/>
+      <point x="605" y="-135"/>
+      <point x="590" y="-135" type="curve" smooth="yes"/>
+      <point x="566" y="-135"/>
+      <point x="549" y="-122"/>
+      <point x="549" y="-95" type="curve" smooth="yes"/>
+      <point x="549" y="-64"/>
+      <point x="587" y="-6"/>
+      <point x="611" y="14" type="curve"/>
+      <point x="524" y="236"/>
+      <point x="437" y="458"/>
+      <point x="349" y="680" type="curve"/>
+    </contour>
+    <contour>
+      <point x="416" y="259" type="line"/>
+      <point x="195" y="259" type="line"/>
+      <point x="232" y="356"/>
+      <point x="268" y="454"/>
+      <point x="304" y="551" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

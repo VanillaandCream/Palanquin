@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.case" format="1">
+  <advance width="337"/>
+  <outline>
+    <contour>
+      <point x="257" y="857" type="line"/>
+      <point x="256" y="834"/>
+      <point x="241" y="820"/>
+      <point x="224" y="820" type="curve" smooth="yes"/>
+      <point x="188" y="820"/>
+      <point x="164" y="861"/>
+      <point x="112" y="861" type="curve" smooth="yes"/>
+      <point x="60" y="861"/>
+      <point x="17" y="836"/>
+      <point x="17" y="756" type="curve"/>
+      <point x="82" y="756" type="line"/>
+      <point x="83" y="778"/>
+      <point x="100" y="793"/>
+      <point x="116" y="793" type="curve" smooth="yes"/>
+      <point x="151" y="793"/>
+      <point x="177" y="751"/>
+      <point x="225" y="751" type="curve" smooth="yes"/>
+      <point x="276" y="751"/>
+      <point x="320" y="777"/>
+      <point x="320" y="857" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_RakarMatraUu" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="72" y="-162" type="line"/>
+      <point x="183" y="-54" type="line"/>
+      <point x="293" y="-162" type="line"/>
+      <point x="353" y="-117" type="line"/>
+      <point x="221" y="14" type="line"/>
+      <point x="141" y="14" type="line"/>
+      <point x="8" y="-117" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="-235"/>
+      <point x="304" y="-288"/>
+      <point x="375" y="-371" type="curve"/>
+      <point x="438" y="-327" type="line"/>
+      <point x="369" y="-220"/>
+      <point x="280" y="-154"/>
+      <point x="186" y="-154" type="curve"/>
+      <point x="96" y="-154"/>
+      <point x="20" y="-209"/>
+      <point x="20" y="-302" type="curve"/>
+      <point x="20" y="-397"/>
+      <point x="98" y="-452"/>
+      <point x="174" y="-452" type="curve"/>
+      <point x="246" y="-452" type="line"/>
+      <point x="246" y="-370" type="line"/>
+      <point x="184" y="-370" type="line" smooth="yes"/>
+      <point x="138" y="-370"/>
+      <point x="110" y="-342"/>
+      <point x="110" y="-302" type="curve"/>
+      <point x="110" y="-264"/>
+      <point x="135" y="-235"/>
+      <point x="184" y="-235" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

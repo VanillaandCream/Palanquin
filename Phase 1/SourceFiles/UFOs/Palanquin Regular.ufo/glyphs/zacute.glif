@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="1">
+  <advance width="466"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="427" y="445" type="line"/>
+      <point x="423" y="488" type="line"/>
+      <point x="60" y="488" type="line"/>
+      <point x="78" y="424" type="line"/>
+      <point x="319" y="424" type="line"/>
+      <point x="35" y="40" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="415" y="62" type="line"/>
+      <point x="139" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="745" type="line"/>
+      <point x="204" y="589" type="line"/>
+      <point x="264" y="589" type="line"/>
+      <point x="351" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

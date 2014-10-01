@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_CandraE" format="1">
+  <advance width="691"/>
+  <unicode hex="090D"/>
+  <outline>
+    <contour>
+      <point x="507" y="937" type="line"/>
+      <point x="468" y="863"/>
+      <point x="415" y="830"/>
+      <point x="355" y="830" type="curve"/>
+      <point x="294" y="830"/>
+      <point x="238" y="864"/>
+      <point x="202" y="937" type="curve"/>
+      <point x="145" y="901" type="line"/>
+      <point x="192" y="807"/>
+      <point x="265" y="766"/>
+      <point x="355" y="766" type="curve"/>
+      <point x="443" y="766"/>
+      <point x="517" y="806"/>
+      <point x="566" y="901" type="curve"/>
+    </contour>
+    <contour>
+      <point x="493" y="270" type="line"/>
+      <point x="493" y="190"/>
+      <point x="463" y="164"/>
+      <point x="387" y="137" type="curve"/>
+      <point x="422" y="72" type="line"/>
+      <point x="533" y="108"/>
+      <point x="580" y="155"/>
+      <point x="580" y="248" type="curve"/>
+      <point x="580" y="612" type="line"/>
+      <point x="702" y="612" type="line"/>
+      <point x="688" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="612" type="line"/>
+      <point x="121" y="612" type="line"/>
+      <point x="121" y="140" type="line" smooth="yes"/>
+      <point x="121" y="52"/>
+      <point x="156" y="2"/>
+      <point x="219" y="-34" type="curve"/>
+      <point x="472" y="-184" type="line"/>
+      <point x="516" y="-120" type="line"/>
+      <point x="256" y="42" type="line" smooth="yes"/>
+      <point x="219" y="67"/>
+      <point x="207" y="108"/>
+      <point x="207" y="146" type="curve"/>
+      <point x="207" y="612" type="line"/>
+      <point x="493" y="612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

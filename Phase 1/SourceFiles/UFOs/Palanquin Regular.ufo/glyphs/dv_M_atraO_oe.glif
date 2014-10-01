@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraOoe" format="1">
+  <advance width="320"/>
+  <unicode hex="093B"/>
+  <outline>
+    <contour>
+      <point x="200" y="882" type="line"/>
+      <point x="119" y="898" type="line"/>
+      <point x="119" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="657"/>
+      <point x="-1" y="634"/>
+      <point x="3" y="611" type="curve"/>
+      <point x="116" y="611" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="203" y="-16" type="line"/>
+      <point x="203" y="611" type="line"/>
+      <point x="331" y="611" type="line"/>
+      <point x="326" y="634"/>
+      <point x="320" y="657"/>
+      <point x="314" y="680" type="curve"/>
+      <point x="200" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

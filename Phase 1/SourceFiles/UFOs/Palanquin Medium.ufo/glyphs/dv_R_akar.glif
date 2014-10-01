@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Rakar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="72" y="-162" type="line"/>
+      <point x="183" y="-54" type="line"/>
+      <point x="293" y="-162" type="line"/>
+      <point x="353" y="-117" type="line"/>
+      <point x="221" y="14" type="line"/>
+      <point x="141" y="14" type="line"/>
+      <point x="8" y="-117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

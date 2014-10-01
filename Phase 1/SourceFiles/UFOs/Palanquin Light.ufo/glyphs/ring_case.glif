@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring.case" format="1">
+  <advance width="209"/>
+  <outline>
+    <contour>
+      <point x="149" y="801"/>
+      <point x="129" y="783"/>
+      <point x="105" y="783" type="curve" smooth="yes"/>
+      <point x="81" y="783"/>
+      <point x="61" y="801"/>
+      <point x="61" y="825" type="curve" smooth="yes"/>
+      <point x="61" y="850"/>
+      <point x="81" y="869"/>
+      <point x="105" y="869" type="curve" smooth="yes"/>
+      <point x="129" y="869"/>
+      <point x="149" y="850"/>
+      <point x="149" y="825" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="193" y="873"/>
+      <point x="153" y="909"/>
+      <point x="105" y="909" type="curve" smooth="yes"/>
+      <point x="57" y="909"/>
+      <point x="16" y="873"/>
+      <point x="16" y="825" type="curve" smooth="yes"/>
+      <point x="16" y="778"/>
+      <point x="57" y="744"/>
+      <point x="105" y="744" type="curve" smooth="yes"/>
+      <point x="153" y="744"/>
+      <point x="193" y="778"/>
+      <point x="193" y="825" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="105" y="702" type="move" name="_topU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

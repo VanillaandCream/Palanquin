@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraVocalicL" format="1">
+  <advance width="0"/>
+  <unicode hex="0962"/>
+  <outline>
+    <contour>
+      <point x="275" y="-152" type="line" smooth="yes"/>
+      <point x="275" y="-122"/>
+      <point x="297" y="-105"/>
+      <point x="319" y="-105" type="curve"/>
+      <point x="337" y="-105"/>
+      <point x="356" y="-116"/>
+      <point x="356" y="-137" type="curve"/>
+      <point x="356" y="-176"/>
+      <point x="315" y="-211"/>
+      <point x="315" y="-266" type="curve"/>
+      <point x="315" y="-314"/>
+      <point x="366" y="-330"/>
+      <point x="398" y="-330" type="curve"/>
+      <point x="426" y="-330" type="line"/>
+      <point x="446" y="-252" type="line"/>
+      <point x="430" y="-252" type="line" smooth="yes"/>
+      <point x="414" y="-252"/>
+      <point x="410" y="-237"/>
+      <point x="414" y="-227" type="curve"/>
+      <point x="425" y="-200"/>
+      <point x="449" y="-171"/>
+      <point x="449" y="-130" type="curve"/>
+      <point x="449" y="-72"/>
+      <point x="399" y="-19"/>
+      <point x="325" y="-19" type="curve"/>
+      <point x="288" y="-19"/>
+      <point x="248" y="-42"/>
+      <point x="233" y="-69" type="curve"/>
+      <point x="218" y="-40"/>
+      <point x="181" y="-19"/>
+      <point x="142" y="-19" type="curve"/>
+      <point x="70" y="-19"/>
+      <point x="17" y="-72"/>
+      <point x="17" y="-130" type="curve"/>
+      <point x="17" y="-192"/>
+      <point x="44" y="-244"/>
+      <point x="90" y="-333" type="curve"/>
+      <point x="179" y="-312" type="line"/>
+      <point x="131" y="-222"/>
+      <point x="108" y="-181"/>
+      <point x="108" y="-136" type="curve"/>
+      <point x="108" y="-122"/>
+      <point x="127" y="-105"/>
+      <point x="146" y="-105" type="curve"/>
+      <point x="169" y="-105"/>
+      <point x="191" y="-119"/>
+      <point x="191" y="-152" type="curve"/>
+      <point x="191" y="-220" type="line"/>
+      <point x="275" y="-241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

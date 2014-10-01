@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_GlottalStop" format="1">
+  <advance width="553"/>
+  <unicode hex="097D"/>
+  <outline>
+    <contour>
+      <point x="502" y="602"/>
+      <point x="430" y="696"/>
+      <point x="281" y="696" type="curve"/>
+      <point x="193" y="696"/>
+      <point x="124" y="668"/>
+      <point x="63" y="629" type="curve"/>
+      <point x="76" y="533" type="line"/>
+      <point x="141" y="577"/>
+      <point x="203" y="607"/>
+      <point x="276" y="607" type="curve"/>
+      <point x="348" y="607"/>
+      <point x="394" y="566"/>
+      <point x="394" y="492" type="curve"/>
+      <point x="394" y="415"/>
+      <point x="317" y="346"/>
+      <point x="207" y="311" type="curve"/>
+      <point x="207" y="43" type="line"/>
+      <point x="313" y="11" type="line"/>
+      <point x="312" y="258" type="line"/>
+      <point x="433" y="305"/>
+      <point x="502" y="405"/>
+      <point x="502" y="494" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

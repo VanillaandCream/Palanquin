@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Turkishlira" format="1">
+  <advance width="514"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="367" y="458" type="line"/>
+      <point x="358" y="503" type="line"/>
+      <point x="169" y="436" type="line"/>
+      <point x="169" y="491" type="line"/>
+      <point x="367" y="561" type="line"/>
+      <point x="358" y="605" type="line"/>
+      <point x="169" y="538" type="line"/>
+      <point x="169" y="706" type="line"/>
+      <point x="107" y="696" type="line"/>
+      <point x="107" y="516" type="line"/>
+      <point x="21" y="486" type="line"/>
+      <point x="29" y="441" type="line"/>
+      <point x="107" y="468" type="line"/>
+      <point x="107" y="415" type="line"/>
+      <point x="21" y="384" type="line"/>
+      <point x="29" y="339" type="line"/>
+      <point x="107" y="367" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="169" y="0" type="line" smooth="yes"/>
+      <point x="325" y="0"/>
+      <point x="482" y="150"/>
+      <point x="482" y="331" type="curve"/>
+      <point x="419" y="331" type="line"/>
+      <point x="419" y="182"/>
+      <point x="287" y="51"/>
+      <point x="169" y="51" type="curve"/>
+      <point x="169" y="389" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

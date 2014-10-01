@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_V.half" format="1">
+  <advance width="505"/>
+  <outline>
+    <contour>
+      <point x="47" y="171"/>
+      <point x="143" y="80"/>
+      <point x="274" y="80" type="curve"/>
+      <point x="408" y="83"/>
+      <point x="496" y="180"/>
+      <point x="496" y="292" type="curve"/>
+      <point x="496" y="410"/>
+      <point x="402" y="502"/>
+      <point x="273" y="504" type="curve"/>
+      <point x="137" y="503"/>
+      <point x="47" y="408"/>
+      <point x="47" y="291" type="curve"/>
+    </contour>
+    <contour>
+      <point x="340" y="417"/>
+      <point x="392" y="366"/>
+      <point x="392" y="292" type="curve"/>
+      <point x="392" y="224"/>
+      <point x="344" y="167"/>
+      <point x="272" y="167" type="curve"/>
+      <point x="204" y="167"/>
+      <point x="152" y="218"/>
+      <point x="152" y="292" type="curve"/>
+      <point x="152" y="360"/>
+      <point x="200" y="417"/>
+      <point x="272" y="417" type="curve"/>
+    </contour>
+    <contour>
+      <point x="516" y="597" type="line"/>
+      <point x="500" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

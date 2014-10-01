@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="538"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="500" y="62" type="line"/>
+      <point x="178" y="62" type="line"/>
+      <point x="178" y="317" type="line"/>
+      <point x="383" y="317" type="line"/>
+      <point x="379" y="337"/>
+      <point x="377" y="357"/>
+      <point x="374" y="377" type="curve"/>
+      <point x="178" y="377" type="line"/>
+      <point x="178" y="620" type="line"/>
+      <point x="480" y="620" type="line"/>
+      <point x="476" y="640"/>
+      <point x="474" y="660"/>
+      <point x="471" y="680" type="curve"/>
+      <point x="99" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="894" type="line"/>
+      <point x="281" y="739" type="line"/>
+      <point x="341" y="739" type="line"/>
+      <point x="281" y="894" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

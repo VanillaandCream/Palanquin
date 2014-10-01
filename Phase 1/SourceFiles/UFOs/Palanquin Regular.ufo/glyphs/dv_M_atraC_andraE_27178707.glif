@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraCandraEAnusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="380" y="937" type="line"/>
+      <point x="341" y="863"/>
+      <point x="288" y="829"/>
+      <point x="228" y="829" type="curve"/>
+      <point x="167" y="829"/>
+      <point x="111" y="864"/>
+      <point x="75" y="937" type="curve"/>
+      <point x="17" y="901" type="line"/>
+      <point x="65" y="806"/>
+      <point x="138" y="765"/>
+      <point x="228" y="765" type="curve"/>
+      <point x="316" y="765"/>
+      <point x="390" y="806"/>
+      <point x="439" y="901" type="curve"/>
+    </contour>
+    <contour>
+      <point x="171" y="909"/>
+      <point x="196" y="883"/>
+      <point x="229" y="883" type="curve"/>
+      <point x="262" y="883"/>
+      <point x="288" y="909"/>
+      <point x="288" y="941" type="curve"/>
+      <point x="288" y="973"/>
+      <point x="262" y="999"/>
+      <point x="229" y="999" type="curve"/>
+      <point x="196" y="999"/>
+      <point x="171" y="973"/>
+      <point x="171" y="941" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

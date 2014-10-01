@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="1">
+  <advance width="634"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <contour>
+      <point x="365" y="680" type="line"/>
+      <point x="266" y="680" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="182" y="171" type="line"/>
+      <point x="450" y="171" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="628" y="16" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="526" type="line"/>
+      <point x="415" y="262" type="line"/>
+      <point x="215" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="816"/>
+      <point x="335" y="797"/>
+      <point x="313" y="797" type="curve"/>
+      <point x="290" y="797"/>
+      <point x="272" y="816"/>
+      <point x="272" y="838" type="curve"/>
+      <point x="272" y="860"/>
+      <point x="290" y="878"/>
+      <point x="313" y="878" type="curve"/>
+      <point x="335" y="878"/>
+      <point x="353" y="860"/>
+      <point x="353" y="838" type="curve"/>
+    </contour>
+    <contour>
+      <point x="415" y="892"/>
+      <point x="368" y="934"/>
+      <point x="313" y="934" type="curve"/>
+      <point x="257" y="934"/>
+      <point x="210" y="892"/>
+      <point x="210" y="838" type="curve"/>
+      <point x="210" y="782"/>
+      <point x="257" y="744"/>
+      <point x="313" y="744" type="curve"/>
+      <point x="368" y="744"/>
+      <point x="415" y="782"/>
+      <point x="415" y="838" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

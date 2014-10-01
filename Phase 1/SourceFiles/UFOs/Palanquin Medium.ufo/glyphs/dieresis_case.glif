@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.case" format="1">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="298" y="844"/>
+      <point x="275" y="868"/>
+      <point x="244" y="868" type="curve"/>
+      <point x="214" y="868"/>
+      <point x="190" y="844"/>
+      <point x="190" y="814" type="curve"/>
+      <point x="190" y="784"/>
+      <point x="214" y="760"/>
+      <point x="244" y="760" type="curve"/>
+      <point x="275" y="760"/>
+      <point x="298" y="784"/>
+      <point x="298" y="814" type="curve"/>
+    </contour>
+    <contour>
+      <point x="124" y="844"/>
+      <point x="101" y="868"/>
+      <point x="70" y="868" type="curve"/>
+      <point x="40" y="868"/>
+      <point x="16" y="844"/>
+      <point x="16" y="814" type="curve"/>
+      <point x="16" y="784"/>
+      <point x="40" y="760"/>
+      <point x="70" y="760" type="curve"/>
+      <point x="101" y="760"/>
+      <point x="124" y="784"/>
+      <point x="124" y="814" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

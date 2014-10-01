@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_CRa" format="1">
+  <advance width="714"/>
+  <outline>
+    <contour>
+      <point x="499" y="0" type="line"/>
+      <point x="603" y="-16" type="line"/>
+      <point x="603" y="597" type="line"/>
+      <point x="725" y="597" type="line"/>
+      <point x="710" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+      <point x="499" y="597" type="line"/>
+      <point x="499" y="301" type="line"/>
+      <point x="489" y="244"/>
+      <point x="431" y="207"/>
+      <point x="365" y="207" type="curve"/>
+      <point x="290" y="207"/>
+      <point x="235" y="249"/>
+      <point x="235" y="316" type="curve"/>
+      <point x="235" y="382"/>
+      <point x="280" y="423"/>
+      <point x="375" y="425" type="curve"/>
+      <point x="418" y="425" type="line"/>
+      <point x="401" y="509" type="line"/>
+      <point x="37" y="509" type="line"/>
+      <point x="52" y="425" type="line"/>
+      <point x="176" y="425" type="line"/>
+      <point x="152" y="396"/>
+      <point x="137" y="361"/>
+      <point x="137" y="316" type="curve"/>
+      <point x="137" y="206"/>
+      <point x="209" y="141"/>
+      <point x="311" y="126" type="curve"/>
+      <point x="140" y="20" type="line"/>
+      <point x="211" y="-39" type="line"/>
+      <point x="499" y="143" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

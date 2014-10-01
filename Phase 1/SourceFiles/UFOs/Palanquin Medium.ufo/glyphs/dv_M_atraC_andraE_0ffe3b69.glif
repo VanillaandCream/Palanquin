@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraCandraECandraBindu" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="389" y="944" type="line"/>
+      <point x="350" y="871"/>
+      <point x="294" y="842"/>
+      <point x="239" y="842" type="curve"/>
+      <point x="183" y="842"/>
+      <point x="123" y="874"/>
+      <point x="88" y="944" type="curve"/>
+      <point x="17" y="900" type="line"/>
+      <point x="67" y="800"/>
+      <point x="147" y="763"/>
+      <point x="239" y="763" type="curve"/>
+      <point x="329" y="763"/>
+      <point x="409" y="800"/>
+      <point x="460" y="900" type="curve"/>
+    </contour>
+    <contour>
+      <point x="332" y="992" type="line"/>
+      <point x="308" y="947"/>
+      <point x="274" y="928"/>
+      <point x="239" y="928" type="curve"/>
+      <point x="204" y="928"/>
+      <point x="167" y="949"/>
+      <point x="146" y="992" type="curve"/>
+      <point x="103" y="966" type="line"/>
+      <point x="134" y="905"/>
+      <point x="183" y="881"/>
+      <point x="239" y="881" type="curve"/>
+      <point x="294" y="881"/>
+      <point x="343" y="905"/>
+      <point x="374" y="966" type="curve"/>
+    </contour>
+    <contour>
+      <point x="200" y="978"/>
+      <point x="217" y="960"/>
+      <point x="239" y="960" type="curve"/>
+      <point x="261" y="960"/>
+      <point x="279" y="978"/>
+      <point x="279" y="999" type="curve"/>
+      <point x="279" y="1021"/>
+      <point x="261" y="1039"/>
+      <point x="239" y="1039" type="curve"/>
+      <point x="217" y="1039"/>
+      <point x="200" y="1021"/>
+      <point x="200" y="999" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

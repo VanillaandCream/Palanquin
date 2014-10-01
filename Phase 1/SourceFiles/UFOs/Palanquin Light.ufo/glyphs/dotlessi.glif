@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="232"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="485" type="line"/>
+      <point x="85" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="535" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

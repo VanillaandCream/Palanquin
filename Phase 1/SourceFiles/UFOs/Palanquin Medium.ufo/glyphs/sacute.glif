@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sacute" format="1">
+  <advance width="441"/>
+  <unicode hex="015B"/>
+  <outline>
+    <contour>
+      <point x="275" y="416"/>
+      <point x="314" y="400"/>
+      <point x="351" y="383" type="curve"/>
+      <point x="381" y="452" type="line"/>
+      <point x="339" y="481"/>
+      <point x="266" y="498"/>
+      <point x="225" y="498" type="curve"/>
+      <point x="111" y="498"/>
+      <point x="41" y="446"/>
+      <point x="41" y="357" type="curve"/>
+      <point x="41" y="278"/>
+      <point x="123" y="237"/>
+      <point x="200" y="211" type="curve"/>
+      <point x="263" y="191"/>
+      <point x="304" y="164"/>
+      <point x="304" y="127" type="curve"/>
+      <point x="304" y="89"/>
+      <point x="267" y="69"/>
+      <point x="203" y="69" type="curve"/>
+      <point x="159" y="69"/>
+      <point x="114" y="82"/>
+      <point x="73" y="102" type="curve"/>
+      <point x="43" y="31" type="line"/>
+      <point x="85" y="1"/>
+      <point x="162" y="-13"/>
+      <point x="203" y="-13" type="curve"/>
+      <point x="332" y="-13"/>
+      <point x="400" y="41"/>
+      <point x="400" y="132" type="curve"/>
+      <point x="400" y="213"/>
+      <point x="317" y="260"/>
+      <point x="236" y="289" type="curve"/>
+      <point x="177" y="309"/>
+      <point x="141" y="329"/>
+      <point x="140" y="359" type="curve"/>
+      <point x="140" y="394"/>
+      <point x="172" y="416"/>
+      <point x="223" y="416" type="curve"/>
+    </contour>
+    <contour>
+      <point x="221" y="747" type="line"/>
+      <point x="161" y="589" type="line"/>
+      <point x="234" y="589" type="line"/>
+      <point x="324" y="747" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

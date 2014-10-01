@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraEReph" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-59" y="620" type="line"/>
+      <point x="-129" y="688" type="line"/>
+      <point x="-149" y="714"/>
+      <point x="-170" y="761"/>
+      <point x="-170" y="785" type="curve"/>
+      <point x="-170" y="812"/>
+      <point x="-159" y="839"/>
+      <point x="-127" y="839" type="curve"/>
+      <point x="-112" y="839"/>
+      <point x="-97" y="833"/>
+      <point x="-78" y="821" type="curve"/>
+      <point x="-34" y="896" type="line"/>
+      <point x="-63" y="923"/>
+      <point x="-99" y="935"/>
+      <point x="-146" y="935" type="curve"/>
+      <point x="-214" y="935"/>
+      <point x="-259" y="884"/>
+      <point x="-270" y="829" type="curve"/>
+      <point x="-400" y="959" type="line"/>
+      <point x="-413" y="949"/>
+      <point x="-477" y="898"/>
+      <point x="-491" y="889" type="curve"/>
+      <point x="-200" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

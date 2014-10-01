@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraIReph" format="1">
+  <advance width="326"/>
+  <outline>
+    <contour>
+      <point x="841" y="675" type="line"/>
+      <point x="813" y="700"/>
+      <point x="780" y="750"/>
+      <point x="780" y="798" type="curve"/>
+      <point x="780" y="835"/>
+      <point x="804" y="874"/>
+      <point x="844" y="874" type="curve"/>
+      <point x="875" y="874"/>
+      <point x="893" y="860"/>
+      <point x="913" y="847" type="curve"/>
+      <point x="952" y="914" type="line"/>
+      <point x="932" y="933"/>
+      <point x="888" y="958"/>
+      <point x="831" y="958" type="curve"/>
+      <point x="750" y="958"/>
+      <point x="696" y="898"/>
+      <point x="687" y="829" type="curve"/>
+      <point x="579" y="886"/>
+      <point x="423" y="946"/>
+      <point x="295" y="946" type="curve"/>
+      <point x="157" y="946"/>
+      <point x="72" y="870"/>
+      <point x="72" y="766" type="curve"/>
+      <point x="72" y="722"/>
+      <point x="86" y="695"/>
+      <point x="95" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+      <point x="110" y="597" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="215" y="-16" type="line"/>
+      <point x="215" y="597" type="line"/>
+      <point x="337" y="597" type="line"/>
+      <point x="320" y="680" type="line"/>
+      <point x="202" y="680" type="line"/>
+      <point x="193" y="691"/>
+      <point x="171" y="717"/>
+      <point x="171" y="761" type="curve"/>
+      <point x="171" y="815"/>
+      <point x="220" y="860"/>
+      <point x="305" y="860" type="curve"/>
+      <point x="429" y="860"/>
+      <point x="592" y="796"/>
+      <point x="705" y="729" type="curve"/>
+      <point x="713" y="708"/>
+      <point x="726" y="687"/>
+      <point x="740" y="675" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

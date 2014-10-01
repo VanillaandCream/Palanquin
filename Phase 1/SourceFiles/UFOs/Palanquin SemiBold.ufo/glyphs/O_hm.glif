@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohm" format="1">
+  <advance width="749"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="491" y="599"/>
+      <point x="570" y="500"/>
+      <point x="570" y="342" type="curve"/>
+      <point x="570" y="234"/>
+      <point x="529" y="128"/>
+      <point x="459" y="91" type="curve"/>
+      <point x="457" y="0" type="line"/>
+      <point x="686" y="0" type="line"/>
+      <point x="692" y="91" type="line"/>
+      <point x="597" y="91" type="line"/>
+      <point x="657" y="147"/>
+      <point x="688" y="250"/>
+      <point x="688" y="345" type="curve"/>
+      <point x="688" y="553"/>
+      <point x="573" y="692"/>
+      <point x="374" y="696" type="curve"/>
+      <point x="176" y="692"/>
+      <point x="61" y="553"/>
+      <point x="61" y="345" type="curve"/>
+      <point x="61" y="250"/>
+      <point x="93" y="147"/>
+      <point x="151" y="91" type="curve"/>
+      <point x="57" y="91" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="290" y="91" type="line"/>
+      <point x="220" y="128"/>
+      <point x="179" y="234"/>
+      <point x="179" y="342" type="curve"/>
+      <point x="179" y="500"/>
+      <point x="258" y="599"/>
+      <point x="374" y="599" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

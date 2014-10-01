@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraVocalicRr" format="1">
+  <advance width="0"/>
+  <unicode hex="0944"/>
+  <outline>
+    <contour>
+      <point x="-270" y="-134"/>
+      <point x="-258" y="-154"/>
+      <point x="-243" y="-166" type="curve"/>
+      <point x="-257" y="-179"/>
+      <point x="-270" y="-199"/>
+      <point x="-270" y="-221" type="curve"/>
+      <point x="-270" y="-290"/>
+      <point x="-211" y="-315"/>
+      <point x="-158" y="-315" type="curve"/>
+      <point x="-129" y="-315" type="line"/>
+      <point x="-106" y="-240" type="line"/>
+      <point x="-141" y="-240" type="line" smooth="yes"/>
+      <point x="-169" y="-240"/>
+      <point x="-182" y="-234"/>
+      <point x="-182" y="-221" type="curve"/>
+      <point x="-182" y="-208"/>
+      <point x="-159" y="-202"/>
+      <point x="-131" y="-202" type="curve"/>
+      <point x="-109" y="-131" type="line"/>
+      <point x="-141" y="-131" type="line" smooth="yes"/>
+      <point x="-158" y="-131"/>
+      <point x="-177" y="-125"/>
+      <point x="-177" y="-114" type="curve"/>
+      <point x="-177" y="-99"/>
+      <point x="-158" y="-93"/>
+      <point x="-141" y="-93" type="curve"/>
+      <point x="-104" y="-93" type="line"/>
+      <point x="-104" y="-18" type="line"/>
+      <point x="-158" y="-18" type="line" smooth="yes"/>
+      <point x="-211" y="-18"/>
+      <point x="-270" y="-42"/>
+      <point x="-270" y="-114" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

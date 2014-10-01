@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Anusvara" format="1">
+  <advance width="0"/>
+  <unicode hex="0902"/>
+  <outline>
+    <contour>
+      <point x="17" y="780"/>
+      <point x="43" y="754"/>
+      <point x="75" y="754" type="curve"/>
+      <point x="108" y="754"/>
+      <point x="134" y="780"/>
+      <point x="134" y="812" type="curve"/>
+      <point x="134" y="846"/>
+      <point x="108" y="871"/>
+      <point x="75" y="871" type="curve"/>
+      <point x="43" y="871"/>
+      <point x="17" y="846"/>
+      <point x="17" y="812" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

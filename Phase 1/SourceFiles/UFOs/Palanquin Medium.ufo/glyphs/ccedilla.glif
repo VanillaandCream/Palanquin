@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="1">
+  <advance width="474"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <contour>
+      <point x="146" y="342"/>
+      <point x="190" y="416"/>
+      <point x="281" y="416" type="curve"/>
+      <point x="339" y="416"/>
+      <point x="366" y="401"/>
+      <point x="407" y="383" type="curve"/>
+      <point x="435" y="451" type="line"/>
+      <point x="392" y="481"/>
+      <point x="322" y="498"/>
+      <point x="282" y="498" type="curve"/>
+      <point x="131" y="498"/>
+      <point x="48" y="394"/>
+      <point x="47" y="243" type="curve"/>
+      <point x="47" y="103"/>
+      <point x="114" y="5"/>
+      <point x="241" y="-10" type="curve"/>
+      <point x="215" y="-78" type="line"/>
+      <point x="265" y="-84"/>
+      <point x="302" y="-103"/>
+      <point x="302" y="-127" type="curve"/>
+      <point x="302" y="-147"/>
+      <point x="279" y="-156"/>
+      <point x="258" y="-156" type="curve"/>
+      <point x="239" y="-156"/>
+      <point x="210" y="-146"/>
+      <point x="195" y="-139" type="curve"/>
+      <point x="172" y="-198" type="line"/>
+      <point x="192" y="-212"/>
+      <point x="232" y="-221"/>
+      <point x="258" y="-221" type="curve"/>
+      <point x="319" y="-221"/>
+      <point x="376" y="-191"/>
+      <point x="376" y="-125" type="curve"/>
+      <point x="376" y="-90"/>
+      <point x="343" y="-53"/>
+      <point x="301" y="-42" type="curve"/>
+      <point x="313" y="-10" type="line"/>
+      <point x="353" y="-4"/>
+      <point x="400" y="10"/>
+      <point x="433" y="33" type="curve"/>
+      <point x="404" y="102" type="line"/>
+      <point x="363" y="82"/>
+      <point x="337" y="69"/>
+      <point x="278" y="69" type="curve"/>
+      <point x="186" y="69"/>
+      <point x="145" y="142"/>
+      <point x="145" y="244" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

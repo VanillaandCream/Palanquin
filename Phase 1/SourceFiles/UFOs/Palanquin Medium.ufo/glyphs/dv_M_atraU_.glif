@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraU" format="1">
+  <advance width="0"/>
+  <unicode hex="0941"/>
+  <outline>
+    <contour>
+      <point x="-224" y="-235"/>
+      <point x="-273" y="-182"/>
+      <point x="-343" y="-100" type="curve"/>
+      <point x="-407" y="-142" type="line"/>
+      <point x="-338" y="-251"/>
+      <point x="-248" y="-317"/>
+      <point x="-154" y="-317" type="curve"/>
+      <point x="-64" y="-317"/>
+      <point x="11" y="-261"/>
+      <point x="11" y="-168" type="curve"/>
+      <point x="11" y="-74"/>
+      <point x="-66" y="-18"/>
+      <point x="-142" y="-18" type="curve"/>
+      <point x="-214" y="-18" type="line"/>
+      <point x="-214" y="-101" type="line"/>
+      <point x="-152" y="-101" type="line" smooth="yes"/>
+      <point x="-107" y="-101"/>
+      <point x="-78" y="-129"/>
+      <point x="-78" y="-168" type="curve"/>
+      <point x="-78" y="-207"/>
+      <point x="-103" y="-235"/>
+      <point x="-152" y="-235" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

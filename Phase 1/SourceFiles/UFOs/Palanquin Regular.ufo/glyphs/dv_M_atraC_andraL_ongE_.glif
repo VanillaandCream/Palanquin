@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraCandraLongE" format="1">
+  <advance width="0"/>
+  <unicode hex="0955"/>
+  <outline>
+    <contour>
+      <point x="383" y="989" type="line"/>
+      <point x="344" y="915"/>
+      <point x="286" y="884"/>
+      <point x="231" y="884" type="curve" smooth="yes"/>
+      <point x="170" y="884"/>
+      <point x="114" y="918"/>
+      <point x="78" y="989" type="curve"/>
+      <point x="58" y="978"/>
+      <point x="39" y="966"/>
+      <point x="20" y="955" type="curve"/>
+      <point x="67" y="861"/>
+      <point x="142" y="822"/>
+      <point x="231" y="822" type="curve" smooth="yes"/>
+      <point x="320" y="822"/>
+      <point x="393" y="860"/>
+      <point x="441" y="955" type="curve"/>
+    </contour>
+    <contour>
+      <point x="451" y="731" type="line"/>
+      <point x="446" y="751"/>
+      <point x="443" y="770"/>
+      <point x="438" y="789" type="curve"/>
+      <point x="19" y="789" type="line"/>
+      <point x="32" y="731" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

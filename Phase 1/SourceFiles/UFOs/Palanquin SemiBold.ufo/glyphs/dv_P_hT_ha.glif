@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_PhTha" format="1">
+  <advance width="1381"/>
+  <outline>
+    <contour>
+      <point x="81" y="583" type="line"/>
+      <point x="81" y="377" type="line" smooth="yes"/>
+      <point x="81" y="239"/>
+      <point x="184" y="157"/>
+      <point x="316" y="157" type="curve" smooth="yes"/>
+      <point x="360" y="157"/>
+      <point x="412" y="172"/>
+      <point x="444" y="192" type="curve"/>
+      <point x="444" y="0" type="line"/>
+      <point x="567" y="-16" type="line"/>
+      <point x="567" y="245" type="line"/>
+      <point x="581" y="274"/>
+      <point x="631" y="313"/>
+      <point x="691" y="313" type="curve" smooth="yes"/>
+      <point x="789" y="313" type="line"/>
+      <point x="817" y="226"/>
+      <point x="917" y="157"/>
+      <point x="1021" y="157" type="curve" smooth="yes"/>
+      <point x="1084" y="157"/>
+      <point x="1122" y="172"/>
+      <point x="1153" y="192" type="curve"/>
+      <point x="1153" y="127"/>
+      <point x="1154" y="64"/>
+      <point x="1154" y="0" type="curve"/>
+      <point x="1277" y="-16" type="line"/>
+      <point x="1277" y="583" type="line"/>
+      <point x="1393" y="583" type="line"/>
+      <point x="1387" y="615"/>
+      <point x="1382" y="647"/>
+      <point x="1377" y="680" type="curve"/>
+      <point x="1055" y="680" type="line"/>
+      <point x="1071" y="583" type="line"/>
+      <point x="1154" y="583" type="line"/>
+      <point x="1154" y="394"/>
+      <point x="1153" y="371"/>
+      <point x="1151" y="349" type="curve"/>
+      <point x="1140" y="294"/>
+      <point x="1083" y="260"/>
+      <point x="1025" y="260" type="curve" smooth="yes"/>
+      <point x="960" y="260"/>
+      <point x="919" y="296"/>
+      <point x="902" y="329" type="curve"/>
+      <point x="960" y="362"/>
+      <point x="1020" y="406"/>
+      <point x="1020" y="521" type="curve" smooth="yes"/>
+      <point x="1020" y="622"/>
+      <point x="947" y="697"/>
+      <point x="859" y="697" type="curve" smooth="yes"/>
+      <point x="831" y="697"/>
+      <point x="806" y="691"/>
+      <point x="785" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="647"/>
+      <point x="0" y="615"/>
+      <point x="5" y="583" type="curve"/>
+    </contour>
+    <contour>
+      <point x="444" y="363" type="line"/>
+      <point x="436" y="299"/>
+      <point x="387" y="260"/>
+      <point x="321" y="260" type="curve" smooth="yes"/>
+      <point x="245" y="260"/>
+      <point x="204" y="305"/>
+      <point x="204" y="377" type="curve" smooth="yes"/>
+      <point x="204" y="583" type="line"/>
+      <point x="444" y="583" type="line"/>
+    </contour>
+    <contour>
+      <point x="567" y="583" type="line"/>
+      <point x="726" y="583" type="line"/>
+      <point x="726" y="576" type="line" smooth="yes"/>
+      <point x="726" y="513"/>
+      <point x="776" y="474"/>
+      <point x="838" y="474" type="curve" smooth="yes"/>
+      <point x="876" y="474"/>
+      <point x="910" y="493"/>
+      <point x="918" y="516" type="curve"/>
+      <point x="918" y="510" type="line" smooth="yes"/>
+      <point x="918" y="458"/>
+      <point x="885" y="425"/>
+      <point x="853" y="409" type="curve"/>
+      <point x="688" y="409" type="line" smooth="yes"/>
+      <point x="628" y="409"/>
+      <point x="593" y="391"/>
+      <point x="567" y="369" type="curve"/>
+    </contour>
+    <contour>
+      <point x="865" y="616"/>
+      <point x="879" y="602"/>
+      <point x="884" y="591" type="curve"/>
+      <point x="881" y="568"/>
+      <point x="868" y="551"/>
+      <point x="843" y="551" type="curve" smooth="yes"/>
+      <point x="828" y="551"/>
+      <point x="813" y="564"/>
+      <point x="813" y="581" type="curve" smooth="yes"/>
+      <point x="813" y="603"/>
+      <point x="830" y="616"/>
+      <point x="850" y="616" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

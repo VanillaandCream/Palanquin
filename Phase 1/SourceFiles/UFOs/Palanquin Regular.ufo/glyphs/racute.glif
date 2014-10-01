@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="1">
+  <advance width="330"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="343" type="line"/>
+      <point x="200" y="386"/>
+      <point x="262" y="422"/>
+      <point x="320" y="422" type="curve"/>
+      <point x="313" y="443"/>
+      <point x="307" y="464"/>
+      <point x="301" y="485" type="curve"/>
+      <point x="249" y="485"/>
+      <point x="186" y="448"/>
+      <point x="150" y="417" type="curve"/>
+      <point x="126" y="485" type="line"/>
+      <point x="78" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="744" type="line"/>
+      <point x="129" y="589" type="line"/>
+      <point x="189" y="589" type="line"/>
+      <point x="276" y="744" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

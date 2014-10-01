@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_JRa" format="1">
+  <advance width="809"/>
+  <outline>
+    <contour>
+      <point x="607" y="391" type="line"/>
+      <point x="607" y="293" type="line"/>
+      <point x="499" y="196"/>
+      <point x="392" y="98"/>
+      <point x="284" y="2" type="curve"/>
+      <point x="304" y="-13"/>
+      <point x="324" y="-30"/>
+      <point x="345" y="-46" type="curve"/>
+      <point x="607" y="196" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="692" y="-16" type="line"/>
+      <point x="692" y="611" type="line"/>
+      <point x="821" y="611" type="line"/>
+      <point x="816" y="634"/>
+      <point x="811" y="657"/>
+      <point x="805" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="657"/>
+      <point x="-1" y="634"/>
+      <point x="3" y="611" type="curve"/>
+      <point x="607" y="611" type="line"/>
+      <point x="607" y="462" type="line"/>
+      <point x="139" y="462" type="line"/>
+      <point x="144" y="438"/>
+      <point x="150" y="415"/>
+      <point x="156" y="391" type="curve"/>
+      <point x="211" y="391" type="line" smooth="yes"/>
+      <point x="295" y="391"/>
+      <point x="346" y="346"/>
+      <point x="346" y="271" type="curve" smooth="yes"/>
+      <point x="346" y="197"/>
+      <point x="287" y="147"/>
+      <point x="206" y="147" type="curve" smooth="yes"/>
+      <point x="141" y="147"/>
+      <point x="79" y="174"/>
+      <point x="28" y="211" type="curve"/>
+      <point x="12" y="136" type="line"/>
+      <point x="58" y="105"/>
+      <point x="126" y="76"/>
+      <point x="208" y="76" type="curve" smooth="yes"/>
+      <point x="330" y="76"/>
+      <point x="431" y="140"/>
+      <point x="431" y="272" type="curve" smooth="yes"/>
+      <point x="431" y="321"/>
+      <point x="415" y="361"/>
+      <point x="389" y="391" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

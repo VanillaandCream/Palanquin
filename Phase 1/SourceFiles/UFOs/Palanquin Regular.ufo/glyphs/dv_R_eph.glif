@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Reph" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-131" y="675" type="line"/>
+      <point x="-161" y="701"/>
+      <point x="-198" y="756"/>
+      <point x="-198" y="807" type="curve"/>
+      <point x="-198" y="847"/>
+      <point x="-172" y="891"/>
+      <point x="-129" y="891" type="curve"/>
+      <point x="-96" y="891"/>
+      <point x="-77" y="877"/>
+      <point x="-55" y="865" type="curve"/>
+      <point x="-24" y="920" type="line"/>
+      <point x="-43" y="936"/>
+      <point x="-82" y="958"/>
+      <point x="-139" y="958" type="curve"/>
+      <point x="-223" y="958"/>
+      <point x="-275" y="889"/>
+      <point x="-275" y="815" type="curve"/>
+      <point x="-275" y="770"/>
+      <point x="-248" y="704"/>
+      <point x="-215" y="675" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

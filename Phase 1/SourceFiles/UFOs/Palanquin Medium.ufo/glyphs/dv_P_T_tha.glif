@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_PTtha" format="1">
+  <advance width="598"/>
+  <outline>
+    <contour>
+      <point x="429" y="-17"/>
+      <point x="516" y="65"/>
+      <point x="516" y="176" type="curve"/>
+      <point x="516" y="241"/>
+      <point x="484" y="296"/>
+      <point x="432" y="330" type="curve"/>
+      <point x="480" y="364"/>
+      <point x="509" y="421"/>
+      <point x="509" y="495" type="curve"/>
+      <point x="509" y="597" type="line"/>
+      <point x="610" y="597" type="line"/>
+      <point x="594" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="4" y="597" type="line"/>
+      <point x="89" y="597" type="line"/>
+      <point x="89" y="495" type="line"/>
+      <point x="89" y="422"/>
+      <point x="118" y="366"/>
+      <point x="164" y="331" type="curve"/>
+      <point x="111" y="297"/>
+      <point x="80" y="241"/>
+      <point x="80" y="175" type="curve"/>
+      <point x="80" y="63"/>
+      <point x="171" y="-17"/>
+      <point x="299" y="-17" type="curve"/>
+    </contour>
+    <contour>
+      <point x="232" y="371"/>
+      <point x="193" y="421"/>
+      <point x="193" y="495" type="curve"/>
+      <point x="193" y="597" type="line"/>
+      <point x="404" y="597" type="line"/>
+      <point x="404" y="495" type="line" smooth="yes"/>
+      <point x="404" y="419"/>
+      <point x="369" y="371"/>
+      <point x="298" y="371" type="curve"/>
+    </contour>
+    <contour>
+      <point x="231" y="67"/>
+      <point x="183" y="113"/>
+      <point x="183" y="176" type="curve"/>
+      <point x="183" y="236"/>
+      <point x="228" y="285"/>
+      <point x="298" y="285" type="curve"/>
+      <point x="365" y="285"/>
+      <point x="412" y="238"/>
+      <point x="412" y="175" type="curve"/>
+      <point x="412" y="114"/>
+      <point x="368" y="66"/>
+      <point x="298" y="66" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

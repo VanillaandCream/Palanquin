@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ph.half" format="1">
+  <advance width="713"/>
+  <outline>
+    <contour>
+      <point x="554" y="597" type="line"/>
+      <point x="724" y="597" type="line"/>
+      <point x="718" y="625"/>
+      <point x="713" y="652"/>
+      <point x="708" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="652"/>
+      <point x="-1" y="625"/>
+      <point x="4" y="597" type="curve"/>
+      <point x="88" y="597" type="line"/>
+      <point x="88" y="380" type="line" smooth="yes"/>
+      <point x="88" y="244"/>
+      <point x="184" y="164"/>
+      <point x="314" y="164" type="curve" smooth="yes"/>
+      <point x="364" y="164"/>
+      <point x="416" y="181"/>
+      <point x="449" y="205" type="curve"/>
+      <point x="449" y="0" type="line"/>
+      <point x="554" y="-16" type="line"/>
+      <point x="554" y="338" type="line"/>
+      <point x="577" y="374"/>
+      <point x="617" y="417"/>
+      <point x="720" y="417" type="curve" smooth="yes"/>
+      <point x="829" y="417" type="line"/>
+      <point x="829" y="499" type="line"/>
+      <point x="718" y="499" type="line" smooth="yes"/>
+      <point x="633" y="499"/>
+      <point x="587" y="477"/>
+      <point x="554" y="449" type="curve"/>
+    </contour>
+    <contour>
+      <point x="449" y="371" type="line"/>
+      <point x="444" y="297"/>
+      <point x="394" y="252"/>
+      <point x="319" y="252" type="curve" smooth="yes"/>
+      <point x="236" y="252"/>
+      <point x="193" y="301"/>
+      <point x="193" y="380" type="curve" smooth="yes"/>
+      <point x="193" y="597" type="line"/>
+      <point x="449" y="597" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

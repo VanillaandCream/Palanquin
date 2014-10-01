@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraCandraERephAnusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="404" y="680" type="line"/>
+      <point x="380" y="705"/>
+      <point x="355" y="761"/>
+      <point x="355" y="804" type="curve" smooth="yes"/>
+      <point x="355" y="843"/>
+      <point x="382" y="877"/>
+      <point x="415" y="877" type="curve" smooth="yes"/>
+      <point x="441" y="877"/>
+      <point x="459" y="868"/>
+      <point x="479" y="856" type="curve"/>
+      <point x="525" y="935" type="line"/>
+      <point x="501" y="958"/>
+      <point x="453" y="978"/>
+      <point x="398" y="978" type="curve" smooth="yes"/>
+      <point x="324" y="978"/>
+      <point x="270" y="927"/>
+      <point x="251" y="866" type="curve"/>
+      <point x="230" y="857"/>
+      <point x="208" y="854"/>
+      <point x="188" y="854" type="curve" smooth="yes"/>
+      <point x="137" y="854"/>
+      <point x="74" y="883"/>
+      <point x="41" y="951" type="curve"/>
+      <point x="-43" y="899" type="line"/>
+      <point x="10" y="794"/>
+      <point x="96" y="760"/>
+      <point x="188" y="760" type="curve" smooth="yes"/>
+      <point x="206" y="760"/>
+      <point x="230" y="760"/>
+      <point x="251" y="764" type="curve"/>
+      <point x="259" y="732"/>
+      <point x="271" y="700"/>
+      <point x="287" y="680" type="curve"/>
+    </contour>
+    <contour>
+      <point x="417" y="734"/>
+      <point x="444" y="707"/>
+      <point x="478" y="707" type="curve" smooth="yes"/>
+      <point x="514" y="707"/>
+      <point x="540" y="734"/>
+      <point x="540" y="769" type="curve" smooth="yes"/>
+      <point x="540" y="804"/>
+      <point x="514" y="831"/>
+      <point x="478" y="831" type="curve" smooth="yes"/>
+      <point x="444" y="831"/>
+      <point x="417" y="804"/>
+      <point x="417" y="769" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Nnn.half" format="1">
+  <advance width="273"/>
+  <outline>
+    <contour>
+      <point x="92" y="5"/>
+      <point x="117" y="-19"/>
+      <point x="145" y="-19" type="curve" smooth="yes"/>
+      <point x="174" y="-19"/>
+      <point x="197" y="5"/>
+      <point x="197" y="33" type="curve" smooth="yes"/>
+      <point x="197" y="62"/>
+      <point x="174" y="85"/>
+      <point x="145" y="85" type="curve" smooth="yes"/>
+      <point x="117" y="85"/>
+      <point x="92" y="62"/>
+      <point x="92" y="33" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="285" y="626" type="line"/>
+      <point x="270" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="330" type="line"/>
+      <point x="405" y="381" type="line"/>
+      <point x="71" y="381" type="line" smooth="yes"/>
+      <point x="53" y="381"/>
+      <point x="41" y="370"/>
+      <point x="38" y="356" type="curve" smooth="yes"/>
+      <point x="29" y="309"/>
+      <point x="81" y="241"/>
+      <point x="145" y="241" type="curve" smooth="yes"/>
+      <point x="164" y="241"/>
+      <point x="174" y="258"/>
+      <point x="174" y="286" type="curve" smooth="yes"/>
+      <point x="174" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

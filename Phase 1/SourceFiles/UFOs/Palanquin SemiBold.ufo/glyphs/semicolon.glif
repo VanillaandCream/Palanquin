@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="177"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="161" y="438"/>
+      <point x="131" y="468"/>
+      <point x="94" y="468" type="curve"/>
+      <point x="56" y="468"/>
+      <point x="26" y="438"/>
+      <point x="26" y="401" type="curve"/>
+      <point x="26" y="364"/>
+      <point x="56" y="334"/>
+      <point x="94" y="334" type="curve"/>
+      <point x="131" y="334"/>
+      <point x="161" y="364"/>
+      <point x="161" y="401" type="curve"/>
+    </contour>
+    <contour>
+      <point x="160" y="109"/>
+      <point x="129" y="142"/>
+      <point x="91" y="142" type="curve"/>
+      <point x="54" y="142"/>
+      <point x="25" y="109"/>
+      <point x="25" y="75" type="curve"/>
+      <point x="25" y="42"/>
+      <point x="53" y="10"/>
+      <point x="77" y="9" type="curve"/>
+      <point x="69" y="-32"/>
+      <point x="46" y="-53"/>
+      <point x="11" y="-80" type="curve"/>
+      <point x="38" y="-134" type="line"/>
+      <point x="108" y="-95"/>
+      <point x="160" y="-9"/>
+      <point x="160" y="61" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

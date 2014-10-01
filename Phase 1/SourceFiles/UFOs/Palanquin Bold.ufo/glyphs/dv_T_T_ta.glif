@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_TTta" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="630" y="101"/>
+      <point x="533" y="134"/>
+      <point x="533" y="241" type="curve" smooth="yes"/>
+      <point x="533" y="325"/>
+      <point x="619" y="383"/>
+      <point x="729" y="383" type="curve" smooth="yes"/>
+      <point x="874" y="383" type="line"/>
+      <point x="874" y="569" type="line"/>
+      <point x="1011" y="569" type="line"/>
+      <point x="995" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="6" y="569" type="line"/>
+      <point x="731" y="569" type="line"/>
+      <point x="731" y="500" type="line"/>
+      <point x="729" y="500" type="line" smooth="yes"/>
+      <point x="673" y="500"/>
+      <point x="620" y="491"/>
+      <point x="573" y="473" type="curve"/>
+      <point x="241" y="473" type="line" smooth="yes"/>
+      <point x="121" y="473"/>
+      <point x="54" y="399"/>
+      <point x="54" y="299" type="curve" smooth="yes"/>
+      <point x="54" y="202"/>
+      <point x="141" y="77"/>
+      <point x="210" y="-22" type="curve"/>
+      <point x="337" y="15" type="line"/>
+      <point x="248" y="152"/>
+      <point x="192" y="239"/>
+      <point x="192" y="295" type="curve" smooth="yes"/>
+      <point x="192" y="338"/>
+      <point x="223" y="360"/>
+      <point x="284" y="360" type="curve" smooth="yes"/>
+      <point x="435" y="360" type="line"/>
+      <point x="416" y="326"/>
+      <point x="405" y="286"/>
+      <point x="405" y="241" type="curve" smooth="yes"/>
+      <point x="405" y="55"/>
+      <point x="561" y="-18"/>
+      <point x="717" y="-18" type="curve" smooth="yes"/>
+      <point x="797" y="-18"/>
+      <point x="882" y="1"/>
+      <point x="941" y="39" type="curve"/>
+      <point x="923" y="167" type="line"/>
+      <point x="845" y="110"/>
+      <point x="776" y="101"/>
+      <point x="717" y="101" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

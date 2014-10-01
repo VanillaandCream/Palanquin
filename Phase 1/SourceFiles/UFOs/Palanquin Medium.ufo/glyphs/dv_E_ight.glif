@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Eight" format="1">
+  <advance width="576"/>
+  <unicode hex="096E"/>
+  <outline>
+    <contour>
+      <point x="211" y="75"/>
+      <point x="158" y="136"/>
+      <point x="158" y="212" type="curve"/>
+      <point x="158" y="345"/>
+      <point x="254" y="492"/>
+      <point x="402" y="629" type="curve"/>
+      <point x="342" y="704" type="line"/>
+      <point x="210" y="587"/>
+      <point x="54" y="380"/>
+      <point x="54" y="208" type="curve"/>
+      <point x="54" y="83"/>
+      <point x="136" y="-18"/>
+      <point x="285" y="-18" type="curve"/>
+      <point x="482" y="-18"/>
+      <point x="522" y="127"/>
+      <point x="519" y="219" type="curve"/>
+      <point x="430" y="245" type="line"/>
+      <point x="430" y="100"/>
+      <point x="354" y="75"/>
+      <point x="293" y="75" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

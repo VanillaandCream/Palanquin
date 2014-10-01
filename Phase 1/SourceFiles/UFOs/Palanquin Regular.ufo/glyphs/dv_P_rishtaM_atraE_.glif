@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_PrishtaMatraE" format="1">
+  <advance width="316"/>
+  <unicode hex="094E"/>
+  <outline>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="200" y="-16" type="line"/>
+      <point x="200" y="612" type="line"/>
+      <point x="328" y="612" type="line"/>
+      <point x="312" y="680" type="line"/>
+      <point x="114" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

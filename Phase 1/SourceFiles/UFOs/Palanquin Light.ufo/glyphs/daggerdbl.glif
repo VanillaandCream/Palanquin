@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="378"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="154" y="-6" type="line"/>
+      <point x="223" y="1" type="line"/>
+      <point x="218" y="186" type="line"/>
+      <point x="347" y="186" type="line"/>
+      <point x="328" y="235" type="line"/>
+      <point x="219" y="235" type="line"/>
+      <point x="222" y="534" type="line"/>
+      <point x="347" y="534" type="line"/>
+      <point x="328" y="584" type="line"/>
+      <point x="219" y="584" type="line"/>
+      <point x="224" y="780" type="line"/>
+      <point x="156" y="783" type="line"/>
+      <point x="161" y="584" type="line"/>
+      <point x="31" y="584" type="line"/>
+      <point x="50" y="534" type="line"/>
+      <point x="159" y="534" type="line"/>
+      <point x="156" y="235" type="line"/>
+      <point x="31" y="235" type="line"/>
+      <point x="50" y="186" type="line"/>
+      <point x="159" y="186" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

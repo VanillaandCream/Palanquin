@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="1">
+  <advance width="545"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="383" y="0"/>
+      <point x="484" y="89"/>
+      <point x="484" y="271" type="curve"/>
+      <point x="484" y="418"/>
+      <point x="376" y="605"/>
+      <point x="204" y="640" type="curve"/>
+      <point x="169" y="591" type="line"/>
+      <point x="285" y="564"/>
+      <point x="369" y="461"/>
+      <point x="395" y="349" type="curve"/>
+      <point x="359" y="381"/>
+      <point x="309" y="407"/>
+      <point x="252" y="407" type="curve"/>
+      <point x="125" y="407"/>
+      <point x="47" y="311"/>
+      <point x="47" y="207" type="curve"/>
+      <point x="47" y="100"/>
+      <point x="129" y="0"/>
+      <point x="250" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="324" y="339"/>
+      <point x="380" y="297"/>
+      <point x="406" y="250" type="curve"/>
+      <point x="400" y="137"/>
+      <point x="352" y="66"/>
+      <point x="253" y="66" type="curve"/>
+      <point x="172" y="66"/>
+      <point x="123" y="130"/>
+      <point x="123" y="201" type="curve"/>
+      <point x="123" y="275"/>
+      <point x="171" y="339"/>
+      <point x="252" y="339" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

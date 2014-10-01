@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zcaron" format="1">
+  <advance width="576"/>
+  <unicode hex="017D"/>
+  <outline>
+    <contour>
+      <point x="552" y="0" type="line"/>
+      <point x="547" y="29"/>
+      <point x="543" y="58"/>
+      <point x="539" y="88" type="curve"/>
+      <point x="140" y="88" type="line"/>
+      <point x="549" y="591" type="line"/>
+      <point x="537" y="680" type="line"/>
+      <point x="46" y="680" type="line"/>
+      <point x="51" y="650"/>
+      <point x="56" y="620"/>
+      <point x="60" y="591" type="curve"/>
+      <point x="419" y="591" type="line"/>
+      <point x="286" y="423"/>
+      <point x="151" y="256"/>
+      <point x="18" y="88" type="curve"/>
+      <point x="22" y="58"/>
+      <point x="26" y="29"/>
+      <point x="31" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="114" y="900" type="line"/>
+      <point x="255" y="739" type="line"/>
+      <point x="323" y="739" type="line"/>
+      <point x="463" y="900" type="line"/>
+      <point x="359" y="900" type="line"/>
+      <point x="336" y="874"/>
+      <point x="313" y="850"/>
+      <point x="291" y="824" type="curve"/>
+      <point x="268" y="850"/>
+      <point x="244" y="874"/>
+      <point x="222" y="900" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

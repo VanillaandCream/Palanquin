@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Na" format="1">
+  <advance width="596"/>
+  <unicode hex="0928"/>
+  <outline>
+    <contour>
+      <point x="405" y="330" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="474" y="-16" type="line"/>
+      <point x="474" y="626" type="line"/>
+      <point x="607" y="626" type="line"/>
+      <point x="593" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="626" type="line"/>
+      <point x="405" y="626" type="line"/>
+      <point x="405" y="381" type="line"/>
+      <point x="71" y="381" type="line" smooth="yes"/>
+      <point x="47" y="381"/>
+      <point x="37" y="364"/>
+      <point x="37" y="344" type="curve" smooth="yes"/>
+      <point x="37" y="299"/>
+      <point x="87" y="241"/>
+      <point x="145" y="241" type="curve" smooth="yes"/>
+      <point x="164" y="241"/>
+      <point x="174" y="258"/>
+      <point x="174" y="286" type="curve" smooth="yes"/>
+      <point x="174" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

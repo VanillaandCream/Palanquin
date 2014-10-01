@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="227"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="94" y="13" type="line"/>
+      <point x="58" y="-80" type="line"/>
+      <point x="108" y="-85"/>
+      <point x="147" y="-105"/>
+      <point x="147" y="-131" type="curve"/>
+      <point x="147" y="-154"/>
+      <point x="120" y="-165"/>
+      <point x="95" y="-165" type="curve"/>
+      <point x="75" y="-165"/>
+      <point x="48" y="-156"/>
+      <point x="35" y="-149" type="curve"/>
+      <point x="16" y="-200" type="line"/>
+      <point x="35" y="-212"/>
+      <point x="71" y="-221"/>
+      <point x="95" y="-221" type="curve"/>
+      <point x="156" y="-221"/>
+      <point x="211" y="-192"/>
+      <point x="211" y="-129" type="curve"/>
+      <point x="211" y="-94"/>
+      <point x="177" y="-56"/>
+      <point x="133" y="-48" type="curve"/>
+      <point x="157" y="13" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
