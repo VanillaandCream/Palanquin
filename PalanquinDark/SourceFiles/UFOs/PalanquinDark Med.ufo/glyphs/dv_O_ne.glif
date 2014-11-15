@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_One" format="1">
+  <advance width="416"/>
+  <unicode hex="0967"/>
+  <outline>
+    <contour>
+      <point x="49" y="337" type="line"/>
+      <point x="46" y="285" type="line"/>
+      <point x="241" y="-19" type="line"/>
+      <point x="384" y="16" type="line"/>
+      <point x="192" y="290" type="line"/>
+      <point x="256" y="339" type="line" smooth="yes"/>
+      <point x="339" y="403"/>
+      <point x="373" y="476"/>
+      <point x="373" y="540" type="curve" smooth="yes"/>
+      <point x="373" y="631"/>
+      <point x="312" y="699"/>
+      <point x="214" y="699" type="curve" smooth="yes"/>
+      <point x="132" y="699"/>
+      <point x="60" y="640"/>
+      <point x="60" y="547" type="curve" smooth="yes"/>
+      <point x="60" y="490"/>
+      <point x="115" y="434"/>
+      <point x="154" y="420" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

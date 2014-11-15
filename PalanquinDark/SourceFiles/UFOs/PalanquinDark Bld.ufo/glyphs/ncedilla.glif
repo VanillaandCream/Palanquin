@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncedilla" format="1">
+  <advance width="624"/>
+  <unicode hex="0146"/>
+  <outline>
+    <contour>
+      <point x="301" y="502"/>
+      <point x="231" y="466"/>
+      <point x="189" y="442" type="curve"/>
+      <point x="151" y="484" type="line"/>
+      <point x="60" y="484" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="242" y="326" type="line"/>
+      <point x="271" y="339"/>
+      <point x="310" y="354"/>
+      <point x="333" y="354" type="curve" smooth="yes"/>
+      <point x="366" y="354"/>
+      <point x="392" y="333"/>
+      <point x="392" y="296" type="curve" smooth="yes"/>
+      <point x="392" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="574" y="300" type="line" smooth="yes"/>
+      <point x="574" y="416"/>
+      <point x="521" y="502"/>
+      <point x="383" y="502" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="399" y="-64"/>
+      <point x="358" y="-21"/>
+      <point x="307" y="-21" type="curve" smooth="yes"/>
+      <point x="255" y="-21"/>
+      <point x="215" y="-68"/>
+      <point x="215" y="-113" type="curve" smooth="yes"/>
+      <point x="215" y="-147"/>
+      <point x="234" y="-176"/>
+      <point x="258" y="-191" type="curve"/>
+      <point x="252" y="-209"/>
+      <point x="225" y="-231"/>
+      <point x="206" y="-242" type="curve"/>
+      <point x="242" y="-322" type="line"/>
+      <point x="331" y="-289"/>
+      <point x="399" y="-207"/>
+      <point x="399" y="-128" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

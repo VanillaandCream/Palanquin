@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraShortOReph" format="1">
+  <advance width="372"/>
+  <outline>
+    <contour>
+      <point x="-103" y="927" type="curve"/>
+      <point x="-249" y="946" type="line"/>
+      <point x="-249" y="891" type="line" smooth="yes"/>
+      <point x="-249" y="804"/>
+      <point x="-172" y="745"/>
+      <point x="-53" y="744" type="curve" smooth="yes"/>
+      <point x="54" y="744" type="line" smooth="yes"/>
+      <point x="87" y="744"/>
+      <point x="113" y="722"/>
+      <point x="113" y="684" type="curve" smooth="yes"/>
+      <point x="113" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="548" type="line"/>
+      <point x="102" y="548" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="271" y="-16" type="line"/>
+      <point x="271" y="548" type="line"/>
+      <point x="383" y="548" type="line"/>
+      <point x="366" y="680" type="line"/>
+      <point x="264" y="680" type="line"/>
+      <point x="264" y="726" type="line" smooth="yes"/>
+      <point x="264" y="739"/>
+      <point x="262" y="753"/>
+      <point x="257" y="774" type="curve"/>
+      <point x="257" y="797"/>
+      <point x="272" y="819"/>
+      <point x="297" y="819" type="curve" smooth="yes"/>
+      <point x="317" y="819"/>
+      <point x="331" y="812"/>
+      <point x="352" y="793" type="curve"/>
+      <point x="416" y="903" type="line"/>
+      <point x="391" y="932"/>
+      <point x="337" y="958"/>
+      <point x="277" y="958" type="curve" smooth="yes"/>
+      <point x="204" y="958"/>
+      <point x="152" y="920"/>
+      <point x="127" y="870" type="curve"/>
+      <point x="108" y="874"/>
+      <point x="88" y="877"/>
+      <point x="68" y="877" type="curve" smooth="yes"/>
+      <point x="-52" y="877" type="line" smooth="yes"/>
+      <point x="-83" y="877"/>
+      <point x="-103" y="888"/>
+    </contour>
+  </outline>
+</glyph>

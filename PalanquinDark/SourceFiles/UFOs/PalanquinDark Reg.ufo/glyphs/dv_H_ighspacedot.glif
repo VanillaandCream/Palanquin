@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Highspacedot" format="1">
+  <advance width="236"/>
+  <unicode hex="0971"/>
+  <outline>
+    <contour>
+      <point x="40" y="251"/>
+      <point x="74" y="217"/>
+      <point x="117" y="217" type="curve" smooth="yes"/>
+      <point x="162" y="217"/>
+      <point x="196" y="251"/>
+      <point x="196" y="295" type="curve" smooth="yes"/>
+      <point x="196" y="338"/>
+      <point x="162" y="373"/>
+      <point x="117" y="373" type="curve" smooth="yes"/>
+      <point x="74" y="373"/>
+      <point x="40" y="338"/>
+      <point x="40" y="295" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

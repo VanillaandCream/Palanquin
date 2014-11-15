@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.case" format="1">
+  <advance width="469"/>
+  <outline>
+    <contour>
+      <point x="82" y="932" type="line"/>
+      <point x="10" y="738" type="line"/>
+      <point x="136" y="738" type="line"/>
+      <point x="247" y="932" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="932" type="line"/>
+      <point x="222" y="738" type="line"/>
+      <point x="348" y="738" type="line"/>
+      <point x="459" y="932" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="702" type="move" name="_topU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

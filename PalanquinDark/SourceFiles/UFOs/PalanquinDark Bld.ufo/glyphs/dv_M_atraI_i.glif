@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraIi" format="1">
+  <advance width="389"/>
+  <unicode hex="0940"/>
+  <outline>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="287" y="-16" type="line"/>
+      <point x="287" y="537" type="line"/>
+      <point x="400" y="537" type="line"/>
+      <point x="383" y="680" type="line"/>
+      <point x="277" y="680" type="line"/>
+      <point x="211" y="829"/>
+      <point x="59" y="955"/>
+      <point x="-94" y="955" type="curve" smooth="yes"/>
+      <point x="-200" y="955"/>
+      <point x="-279" y="886"/>
+      <point x="-279" y="800" type="curve" smooth="yes"/>
+      <point x="-279" y="756"/>
+      <point x="-264" y="720"/>
+      <point x="-237" y="688" type="curve"/>
+      <point x="-55" y="724" type="line"/>
+      <point x="-78" y="743"/>
+      <point x="-96" y="771"/>
+      <point x="-96" y="782" type="curve" smooth="yes"/>
+      <point x="-96" y="788"/>
+      <point x="-88" y="793"/>
+      <point x="-82" y="793" type="curve" smooth="yes"/>
+      <point x="-19" y="793"/>
+      <point x="64" y="723"/>
+      <point x="86" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="537" type="line"/>
+      <point x="105" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

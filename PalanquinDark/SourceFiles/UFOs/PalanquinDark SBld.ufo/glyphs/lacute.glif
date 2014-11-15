@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="1">
+  <advance width="290"/>
+  <unicode hex="013A"/>
+  <outline>
+    <contour>
+      <point x="227" y="698" type="line"/>
+      <point x="63" y="687" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="899" type="line"/>
+      <point x="124" y="842"/>
+      <point x="102" y="786"/>
+      <point x="81" y="729" type="curve"/>
+      <point x="204" y="729" type="line"/>
+      <point x="308" y="899" type="line"/>
+    </contour>
+  </outline>
+</glyph>

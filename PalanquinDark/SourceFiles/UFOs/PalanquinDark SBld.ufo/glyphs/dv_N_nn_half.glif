@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Nnn.half" format="1">
+  <advance width="360"/>
+  <outline>
+    <contour>
+      <point x="371" y="548" type="line"/>
+      <point x="354" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="548" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="397" type="line"/>
+      <point x="101" y="397" type="line" smooth="yes"/>
+      <point x="50" y="397"/>
+      <point x="20" y="368"/>
+      <point x="20" y="329" type="curve" smooth="yes"/>
+      <point x="20" y="249"/>
+      <point x="102" y="171"/>
+      <point x="185" y="171" type="curve"/>
+      <point x="190" y="171" type="line"/>
+      <point x="242" y="173"/>
+      <point x="258" y="221"/>
+      <point x="258" y="265" type="curve"/>
+      <point x="474" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="1" type="curve" smooth="yes"/>
+      <point x="89" y="-46"/>
+      <point x="127" y="-85"/>
+      <point x="175" y="-85" type="curve" smooth="yes"/>
+      <point x="222" y="-85"/>
+      <point x="261" y="-46"/>
+      <point x="261" y="1" type="curve" smooth="yes"/>
+      <point x="261" y="48"/>
+      <point x="222" y="87"/>
+      <point x="175" y="87" type="curve" smooth="yes"/>
+      <point x="127" y="87"/>
+      <point x="89" y="48"/>
+    </contour>
+  </outline>
+</glyph>

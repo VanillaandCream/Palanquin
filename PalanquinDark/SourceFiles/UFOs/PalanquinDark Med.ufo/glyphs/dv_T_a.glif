@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ta" format="1">
+  <advance width="707"/>
+  <unicode hex="0924"/>
+  <outline>
+    <contour>
+      <point x="453" y="0" type="line"/>
+      <point x="607" y="-16" type="line"/>
+      <point x="607" y="558" type="line"/>
+      <point x="718" y="558" type="line"/>
+      <point x="702" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="6" y="558" type="line"/>
+      <point x="453" y="558" type="line"/>
+      <point x="453" y="465" type="line"/>
+      <point x="242" y="465" type="line" smooth="yes"/>
+      <point x="125" y="465"/>
+      <point x="55" y="401"/>
+      <point x="55" y="293" type="curve" smooth="yes"/>
+      <point x="55" y="197"/>
+      <point x="139" y="73"/>
+      <point x="204" y="-22" type="curve"/>
+      <point x="342" y="16" type="line"/>
+      <point x="260" y="144"/>
+      <point x="206" y="231"/>
+      <point x="206" y="284" type="curve" smooth="yes"/>
+      <point x="206" y="322"/>
+      <point x="235" y="342"/>
+      <point x="285" y="342" type="curve" smooth="yes"/>
+      <point x="453" y="342" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="1">
+  <advance width="449"/>
+  <unicode hex="017E"/>
+  <outline>
+    <contour>
+      <point x="423" y="422" type="line"/>
+      <point x="416" y="496" type="line"/>
+      <point x="28" y="496" type="line"/>
+      <point x="53" y="389" type="line"/>
+      <point x="247" y="389" type="line"/>
+      <point x="16" y="69" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="423" y="105" type="line"/>
+      <point x="189" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="753" type="line"/>
+      <point x="204" y="589" type="line"/>
+      <point x="274" y="589" type="line"/>
+      <point x="427" y="753" type="line"/>
+      <point x="308" y="753" type="line"/>
+      <point x="241" y="688" type="line"/>
+      <point x="174" y="753" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

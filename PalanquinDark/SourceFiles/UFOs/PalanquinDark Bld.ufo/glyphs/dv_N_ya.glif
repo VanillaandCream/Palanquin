@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Nya" format="1">
+  <advance width="862"/>
+  <unicode hex="091E"/>
+  <outline>
+    <contour>
+      <point x="578" y="0" type="line"/>
+      <point x="760" y="-16" type="line"/>
+      <point x="760" y="537" type="line"/>
+      <point x="873" y="537" type="line"/>
+      <point x="856" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="537" type="line"/>
+      <point x="578" y="537" type="line"/>
+      <point x="578" y="339" type="line"/>
+      <point x="489" y="339" type="line"/>
+      <point x="460" y="445"/>
+      <point x="358" y="499"/>
+      <point x="244" y="499" type="curve" smooth="yes"/>
+      <point x="201" y="499"/>
+      <point x="157" y="497"/>
+      <point x="86" y="472" type="curve"/>
+      <point x="125" y="333" type="line"/>
+      <point x="180" y="349"/>
+      <point x="215" y="351"/>
+      <point x="240" y="351" type="curve" smooth="yes"/>
+      <point x="294" y="351"/>
+      <point x="322" y="317"/>
+      <point x="322" y="271" type="curve" smooth="yes"/>
+      <point x="322" y="221"/>
+      <point x="289" y="189"/>
+      <point x="239" y="189" type="curve" smooth="yes"/>
+      <point x="189" y="189"/>
+      <point x="116" y="211"/>
+      <point x="56" y="270" type="curve"/>
+      <point x="22" y="106" type="line"/>
+      <point x="81" y="66"/>
+      <point x="167" y="40"/>
+      <point x="244" y="40" type="curve" smooth="yes"/>
+      <point x="358" y="40"/>
+      <point x="460" y="90"/>
+      <point x="487" y="194" type="curve"/>
+      <point x="578" y="194" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

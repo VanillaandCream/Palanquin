@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_TRa" format="1">
+  <advance width="647"/>
+  <outline>
+    <contour>
+      <point x="363" y="0" type="line"/>
+      <point x="545" y="-16" type="line"/>
+      <point x="545" y="537" type="line"/>
+      <point x="658" y="537" type="line"/>
+      <point x="641" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="537" type="line"/>
+      <point x="363" y="537" type="line"/>
+      <point x="363" y="443" type="line"/>
+      <point x="309" y="471"/>
+      <point x="281" y="483"/>
+      <point x="202" y="483" type="curve" smooth="yes"/>
+      <point x="177" y="483"/>
+      <point x="81" y="459"/>
+      <point x="29" y="434" type="curve"/>
+      <point x="95" y="287" type="line"/>
+      <point x="149" y="312"/>
+      <point x="200" y="328"/>
+      <point x="211" y="328" type="curve" smooth="yes"/>
+      <point x="236" y="328"/>
+      <point x="266" y="318"/>
+      <point x="299" y="294" type="curve"/>
+      <point x="74" y="158" type="line"/>
+      <point x="169" y="27" type="line"/>
+      <point x="363" y="147" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

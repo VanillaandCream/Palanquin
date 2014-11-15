@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraShortEReph" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-412" y="919" type="curve"/>
+      <point x="-547" y="938" type="line"/>
+      <point x="-547" y="888" type="line" smooth="yes"/>
+      <point x="-547" y="804"/>
+      <point x="-471" y="746"/>
+      <point x="-354" y="745" type="curve" smooth="yes"/>
+      <point x="-296" y="745" type="line" smooth="yes"/>
+      <point x="-258" y="745"/>
+      <point x="-233" y="723"/>
+      <point x="-233" y="683" type="curve" smooth="yes"/>
+      <point x="-233" y="629" type="line"/>
+      <point x="-93" y="629" type="line"/>
+      <point x="-93" y="722" type="line" smooth="yes"/>
+      <point x="-93" y="744"/>
+      <point x="-101" y="760"/>
+      <point x="-101" y="778" type="curve" smooth="yes"/>
+      <point x="-101" y="804"/>
+      <point x="-84" y="829"/>
+      <point x="-53" y="829" type="curve" smooth="yes"/>
+      <point x="-31" y="829"/>
+      <point x="-16" y="819"/>
+      <point x="3" y="802" type="curve"/>
+      <point x="63" y="903" type="line"/>
+      <point x="39" y="930"/>
+      <point x="-14" y="958"/>
+      <point x="-74" y="958" type="curve" smooth="yes"/>
+      <point x="-148" y="958"/>
+      <point x="-202" y="916"/>
+      <point x="-225" y="860" type="curve"/>
+      <point x="-244" y="865"/>
+      <point x="-264" y="868"/>
+      <point x="-285" y="868" type="curve" smooth="yes"/>
+      <point x="-353" y="868" type="line" smooth="yes"/>
+      <point x="-389" y="868"/>
+      <point x="-412" y="880"/>
+    </contour>
+  </outline>
+</glyph>

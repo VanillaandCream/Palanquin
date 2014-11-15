@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraCandraOCandraBindu" format="1">
+  <advance width="355"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="255" y="-16" type="line"/>
+      <point x="255" y="558" type="line"/>
+      <point x="366" y="558" type="line"/>
+      <point x="349" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="6" y="558" type="line"/>
+      <point x="100" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="751" type="curve" smooth="yes"/>
+      <point x="276" y="751"/>
+      <point x="377" y="790"/>
+      <point x="430" y="897" type="curve"/>
+      <point x="323" y="963" type="line"/>
+      <point x="289" y="899"/>
+      <point x="232" y="871"/>
+      <point x="179" y="871" type="curve" smooth="yes"/>
+      <point x="126" y="871"/>
+      <point x="63" y="903"/>
+      <point x="35" y="963" type="curve"/>
+      <point x="-73" y="897" type="line"/>
+      <point x="-20" y="790"/>
+      <point x="81" y="751"/>
+    </contour>
+    <contour>
+      <point x="98" y="999" type="curve" smooth="yes"/>
+      <point x="98" y="954"/>
+      <point x="134" y="918"/>
+      <point x="178" y="918" type="curve" smooth="yes"/>
+      <point x="223" y="918"/>
+      <point x="259" y="954"/>
+      <point x="259" y="999" type="curve" smooth="yes"/>
+      <point x="259" y="1043"/>
+      <point x="223" y="1080"/>
+      <point x="178" y="1080" type="curve" smooth="yes"/>
+      <point x="134" y="1080"/>
+      <point x="98" y="1043"/>
+    </contour>
+  </outline>
+</glyph>

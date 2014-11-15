@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MBh.half" format="1">
+  <advance width="810"/>
+  <outline>
+    <contour>
+      <point x="912" y="322" type="line"/>
+      <point x="712" y="322" type="line"/>
+      <point x="712" y="517" type="line" smooth="yes"/>
+      <point x="712" y="630"/>
+      <point x="650" y="698"/>
+      <point x="547" y="698" type="curve" smooth="yes"/>
+      <point x="520" y="698"/>
+      <point x="494" y="691"/>
+      <point x="472" y="680" type="curve"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="-5" y="639"/>
+      <point x="0" y="599"/>
+      <point x="5" y="558" type="curve"/>
+      <point x="115" y="558" type="line"/>
+      <point x="115" y="322" type="line"/>
+      <point x="68" y="322"/>
+      <point x="38" y="298"/>
+      <point x="38" y="258" type="curve" smooth="yes"/>
+      <point x="38" y="179"/>
+      <point x="117" y="117"/>
+      <point x="196" y="117" type="curve" smooth="yes"/>
+      <point x="238" y="117"/>
+      <point x="252" y="163"/>
+      <point x="252" y="201" type="curve"/>
+      <point x="502" y="201" type="line"/>
+      <point x="526" y="152"/>
+      <point x="581" y="119"/>
+      <point x="641" y="119" type="curve" smooth="yes"/>
+      <point x="685" y="119"/>
+      <point x="703" y="154"/>
+      <point x="703" y="201" type="curve"/>
+      <point x="912" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="558" type="line"/>
+      <point x="403" y="558" type="line"/>
+      <point x="406" y="479"/>
+      <point x="462" y="428"/>
+      <point x="544" y="428" type="curve" smooth="yes"/>
+      <point x="549" y="428"/>
+      <point x="557" y="428"/>
+      <point x="565" y="429" type="curve"/>
+      <point x="565" y="322" type="line"/>
+      <point x="262" y="322" type="line"/>
+    </contour>
+  </outline>
+</glyph>

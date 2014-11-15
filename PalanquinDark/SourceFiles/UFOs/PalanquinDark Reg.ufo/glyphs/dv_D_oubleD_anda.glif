@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_DoubleDanda" format="1">
+  <advance width="787"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="281" y="755" type="line"/>
+      <point x="140" y="771" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="281" y="-16" type="line"/>
+    </contour>
+    <contour>
+      <point x="647" y="755" type="line"/>
+      <point x="505" y="771" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="647" y="-16" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

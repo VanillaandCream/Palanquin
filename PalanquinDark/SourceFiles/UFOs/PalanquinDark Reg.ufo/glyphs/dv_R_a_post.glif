@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ra.post" format="1">
+  <advance width="338"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="239" y="-16" type="line"/>
+      <point x="239" y="569" type="line"/>
+      <point x="350" y="569" type="line"/>
+      <point x="332" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="6" y="569" type="line"/>
+      <point x="97" y="569" type="line"/>
+      <point x="97" y="326" type="line"/>
+      <point x="-153" y="12" type="line"/>
+      <point x="-21" y="-21" type="line"/>
+      <point x="97" y="133" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_PrishtaMatraE" format="1">
+  <advance width="354"/>
+  <unicode hex="094E"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="254" y="-16" type="line"/>
+      <point x="254" y="558" type="line"/>
+      <point x="366" y="558" type="line"/>
+      <point x="349" y="680" type="line"/>
+      <point x="100" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

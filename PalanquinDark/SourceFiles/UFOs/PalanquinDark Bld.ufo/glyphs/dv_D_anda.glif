@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Danda" format="1">
+  <advance width="502"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="342" y="-16" type="line"/>
+      <point x="342" y="755" type="line"/>
+      <point x="160" y="771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

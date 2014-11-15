@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="1">
+  <advance width="614"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <contour>
+      <point x="318" y="-18"/>
+      <point x="384" y="18"/>
+      <point x="425" y="41" type="curve"/>
+      <point x="463" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="484" type="line"/>
+      <point x="372" y="484" type="line"/>
+      <point x="372" y="158" type="line"/>
+      <point x="343" y="144"/>
+      <point x="308" y="130"/>
+      <point x="286" y="130" type="curve" smooth="yes"/>
+      <point x="253" y="130"/>
+      <point x="232" y="151"/>
+      <point x="232" y="188" type="curve" smooth="yes"/>
+      <point x="232" y="484" type="line"/>
+      <point x="50" y="484" type="line"/>
+      <point x="50" y="184" type="line" smooth="yes"/>
+      <point x="50" y="68"/>
+      <point x="98" y="-18"/>
+      <point x="236" y="-18" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="250" y="588" type="line"/>
+      <point x="303" y="650" type="line"/>
+      <point x="355" y="588" type="line"/>
+      <point x="528" y="588" type="line"/>
+      <point x="354" y="787" type="line"/>
+      <point x="247" y="787" type="line"/>
+      <point x="73" y="588" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ssa" format="1">
+  <advance width="721"/>
+  <unicode hex="0937"/>
+  <outline>
+    <contour>
+      <point x="452" y="0" type="line"/>
+      <point x="620" y="-16" type="line"/>
+      <point x="620" y="548" type="line"/>
+      <point x="732" y="548" type="line"/>
+      <point x="715" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="548" type="line"/>
+      <point x="81" y="548" type="line"/>
+      <point x="81" y="360" type="line" smooth="yes"/>
+      <point x="81" y="206"/>
+      <point x="205" y="129"/>
+      <point x="335" y="129" type="curve" smooth="yes"/>
+      <point x="375" y="129"/>
+      <point x="427" y="141"/>
+      <point x="452" y="156" type="curve"/>
+    </contour>
+    <contour>
+      <point x="345" y="266" type="curve" smooth="yes"/>
+      <point x="279" y="266"/>
+      <point x="242" y="302"/>
+      <point x="242" y="379" type="curve" smooth="yes"/>
+      <point x="242" y="519" type="line"/>
+      <point x="261" y="495"/>
+      <point x="394" y="312"/>
+      <point x="414" y="287" type="curve"/>
+      <point x="396" y="274"/>
+      <point x="372" y="266"/>
+    </contour>
+    <contour>
+      <point x="452" y="548" type="line"/>
+      <point x="452" y="347" type="line"/>
+      <point x="302" y="548" type="line"/>
+    </contour>
+  </outline>
+</glyph>

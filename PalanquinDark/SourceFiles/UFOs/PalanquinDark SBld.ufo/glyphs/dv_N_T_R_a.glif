@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_NTRa" format="1">
+  <advance width="991"/>
+  <outline>
+    <contour>
+      <point x="721" y="0" type="line"/>
+      <point x="890" y="-16" type="line"/>
+      <point x="890" y="548" type="line"/>
+      <point x="1002" y="548" type="line"/>
+      <point x="985" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="5" y="548" type="line"/>
+      <point x="721" y="548" type="line"/>
+      <point x="721" y="436" type="line"/>
+      <point x="663" y="469"/>
+      <point x="626" y="477"/>
+      <point x="558" y="477" type="curve" smooth="yes"/>
+      <point x="512" y="477"/>
+      <point x="427" y="450"/>
+      <point x="374" y="425" type="curve"/>
+      <point x="101" y="425" type="line" smooth="yes"/>
+      <point x="50" y="425"/>
+      <point x="20" y="397"/>
+      <point x="20" y="357" type="curve" smooth="yes"/>
+      <point x="20" y="277"/>
+      <point x="102" y="200"/>
+      <point x="185" y="200" type="curve"/>
+      <point x="190" y="200" type="line"/>
+      <point x="242" y="202"/>
+      <point x="258" y="249"/>
+      <point x="258" y="293" type="curve"/>
+      <point x="451" y="293" type="line"/>
+      <point x="504" y="317"/>
+      <point x="554" y="333"/>
+      <point x="567" y="333" type="curve" smooth="yes"/>
+      <point x="595" y="333"/>
+      <point x="628" y="322"/>
+      <point x="667" y="291" type="curve"/>
+      <point x="436" y="151" type="line"/>
+      <point x="526" y="28" type="line"/>
+      <point x="721" y="150" type="line"/>
+    </contour>
+  </outline>
+</glyph>

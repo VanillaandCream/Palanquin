@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_JGa" format="1">
+  <advance width="1181"/>
+  <outline>
+    <contour>
+      <point x="941" y="0" type="line"/>
+      <point x="1081" y="-16" type="line"/>
+      <point x="1081" y="569" type="line"/>
+      <point x="1193" y="569" type="line"/>
+      <point x="1177" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="6" y="569" type="line"/>
+      <point x="610" y="569" type="line"/>
+      <point x="610" y="468" type="line"/>
+      <point x="169" y="468" type="line"/>
+      <point x="185" y="358" type="line"/>
+      <point x="247" y="358" type="line" smooth="yes"/>
+      <point x="319" y="358"/>
+      <point x="344" y="318"/>
+      <point x="344" y="269" type="curve" smooth="yes"/>
+      <point x="344" y="211"/>
+      <point x="300" y="169"/>
+      <point x="227" y="169" type="curve" smooth="yes"/>
+      <point x="171" y="169"/>
+      <point x="106" y="200"/>
+      <point x="42" y="249" type="curve"/>
+      <point x="17" y="122" type="line"/>
+      <point x="71" y="87"/>
+      <point x="150" y="52"/>
+      <point x="232" y="52" type="curve" smooth="yes"/>
+      <point x="353" y="52"/>
+      <point x="476" y="116"/>
+      <point x="476" y="275" type="curve" smooth="yes"/>
+      <point x="476" y="306"/>
+      <point x="469" y="334"/>
+      <point x="461" y="358" type="curve"/>
+      <point x="610" y="358" type="line"/>
+      <point x="610" y="332" type="line"/>
+      <point x="580" y="332"/>
+      <point x="543" y="314"/>
+      <point x="543" y="288" type="curve" smooth="yes"/>
+      <point x="543" y="228"/>
+      <point x="617" y="139"/>
+      <point x="694" y="139" type="curve" smooth="yes"/>
+      <point x="733" y="139"/>
+      <point x="751" y="168"/>
+      <point x="751" y="213" type="curve" smooth="yes"/>
+      <point x="751" y="569" type="line"/>
+      <point x="941" y="569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

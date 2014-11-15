@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Va" format="1">
+  <advance width="625"/>
+  <unicode hex="0935"/>
+  <outline>
+    <contour>
+      <point x="40" y="154"/>
+      <point x="133" y="59"/>
+      <point x="273" y="59" type="curve" smooth="yes"/>
+      <point x="308" y="59"/>
+      <point x="366" y="77"/>
+      <point x="385" y="99" type="curve"/>
+      <point x="385" y="0" type="line"/>
+      <point x="526" y="-16" type="line"/>
+      <point x="526" y="569" type="line"/>
+      <point x="636" y="569" type="line"/>
+      <point x="620" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="6" y="569" type="line"/>
+      <point x="385" y="569" type="line"/>
+      <point x="385" y="458" type="line"/>
+      <point x="366" y="479"/>
+      <point x="308" y="497"/>
+      <point x="273" y="497" type="curve" smooth="yes"/>
+      <point x="133" y="497"/>
+      <point x="40" y="402"/>
+      <point x="40" y="278" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="227" y="176"/>
+      <point x="173" y="218"/>
+      <point x="173" y="277" type="curve" smooth="yes"/>
+      <point x="173" y="338"/>
+      <point x="227" y="380"/>
+      <point x="280" y="380" type="curve" smooth="yes"/>
+      <point x="330" y="380"/>
+      <point x="366" y="354"/>
+      <point x="385" y="325" type="curve"/>
+      <point x="385" y="230" type="line"/>
+      <point x="366" y="202"/>
+      <point x="330" y="176"/>
+      <point x="280" y="176" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
