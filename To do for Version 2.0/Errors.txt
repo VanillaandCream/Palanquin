@@ -1,0 +1,5 @@
+Font Audit text weights
+I matra placements
+Redo Gpos
+Script specific GSub stuff
+Side bearing was wrong in one glyph
