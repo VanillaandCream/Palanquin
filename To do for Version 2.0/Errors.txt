@@ -3,3 +3,6 @@ I matra placements
 Redo Gpos
 Script specific GSub stuff
 Side bearing was wrong in one glyph
+Fix width of Ha
+Maybe style specific GSUB
+Basic Kerning for the Latin
