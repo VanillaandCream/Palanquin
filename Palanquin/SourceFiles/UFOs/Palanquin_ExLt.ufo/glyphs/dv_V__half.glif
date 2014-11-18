@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_V.half" format="1">
+  <advance width="491"/>
+  <outline>
+    <contour>
+      <point x="45" y="306" type="curve"/>
+      <point x="45" y="187"/>
+      <point x="144" y="103"/>
+      <point x="266" y="103" type="curve"/>
+      <point x="390" y="104"/>
+      <point x="480" y="197"/>
+      <point x="480" y="307" type="curve"/>
+      <point x="480" y="425"/>
+      <point x="385" y="510"/>
+      <point x="265" y="510" type="curve" smooth="yes"/>
+      <point x="138" y="510"/>
+      <point x="45" y="422"/>
+    </contour>
+    <contour>
+      <point x="263" y="461" type="curve"/>
+      <point x="351" y="461"/>
+      <point x="418" y="396"/>
+      <point x="418" y="306" type="curve"/>
+      <point x="418" y="223"/>
+      <point x="355" y="152"/>
+      <point x="263" y="152" type="curve"/>
+      <point x="176" y="152"/>
+      <point x="109" y="217"/>
+      <point x="109" y="307" type="curve"/>
+      <point x="109" y="390"/>
+      <point x="172" y="461"/>
+    </contour>
+    <contour>
+      <point x="502" y="633" type="line"/>
+      <point x="486" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

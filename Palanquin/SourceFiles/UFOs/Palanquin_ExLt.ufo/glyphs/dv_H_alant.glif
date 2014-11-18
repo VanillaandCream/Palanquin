@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Halant" format="1">
+  <advance width="0"/>
+  <unicode hex="094D"/>
+  <outline>
+    <contour>
+      <point x="-14" y="-293" type="line"/>
+      <point x="17" y="-261" type="line"/>
+      <point x="-178" y="-68" type="line"/>
+      <point x="-218" y="-110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

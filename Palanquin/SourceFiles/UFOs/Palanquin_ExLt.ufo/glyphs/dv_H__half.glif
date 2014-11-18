@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_H.half" format="1">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="636" y="338" type="line"/>
+      <point x="636" y="386" type="line"/>
+      <point x="287" y="386" type="line" smooth="yes"/>
+      <point x="251" y="386"/>
+      <point x="219" y="380"/>
+      <point x="191" y="369" type="curve"/>
+      <point x="164" y="380"/>
+      <point x="144" y="402"/>
+      <point x="144" y="434" type="curve"/>
+      <point x="145" y="469"/>
+      <point x="171" y="493"/>
+      <point x="214" y="493" type="curve"/>
+      <point x="435" y="493" type="line"/>
+      <point x="435" y="633" type="line"/>
+      <point x="542" y="633" type="line"/>
+      <point x="526" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="378" y="633" type="line"/>
+      <point x="378" y="541" type="line"/>
+      <point x="221" y="541" type="line" smooth="yes"/>
+      <point x="135" y="541"/>
+      <point x="88" y="505"/>
+      <point x="87" y="433" type="curve"/>
+      <point x="87" y="393"/>
+      <point x="110" y="359"/>
+      <point x="140" y="341" type="curve"/>
+      <point x="102" y="309"/>
+      <point x="80" y="262"/>
+      <point x="80" y="205" type="curve"/>
+      <point x="80" y="72"/>
+      <point x="214" y="-8"/>
+      <point x="356" y="-16" type="curve"/>
+      <point x="371" y="31" type="line"/>
+      <point x="268" y="38"/>
+      <point x="138" y="91"/>
+      <point x="138" y="205" type="curve"/>
+      <point x="138" y="280"/>
+      <point x="197" y="338"/>
+      <point x="285" y="338" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

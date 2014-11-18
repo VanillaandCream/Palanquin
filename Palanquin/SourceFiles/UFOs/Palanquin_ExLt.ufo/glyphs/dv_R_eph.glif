@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Reph" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-142" y="678" type="line"/>
+      <point x="-175" y="704"/>
+      <point x="-214" y="769"/>
+      <point x="-214" y="822" type="curve"/>
+      <point x="-214" y="878"/>
+      <point x="-179" y="915"/>
+      <point x="-133" y="915" type="curve"/>
+      <point x="-100" y="915"/>
+      <point x="-69" y="902"/>
+      <point x="-52" y="891" type="curve"/>
+      <point x="-32" y="926" type="line"/>
+      <point x="-55" y="942"/>
+      <point x="-90" y="959"/>
+      <point x="-139" y="959" type="curve"/>
+      <point x="-223" y="959"/>
+      <point x="-267" y="894"/>
+      <point x="-267" y="823" type="curve"/>
+      <point x="-267" y="776"/>
+      <point x="-236" y="707"/>
+      <point x="-200" y="678" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

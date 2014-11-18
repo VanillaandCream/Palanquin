@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="1">
+  <advance width="491"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="471" y="0" type="line"/>
+      <point x="466" y="39" type="line"/>
+      <point x="149" y="39" type="line"/>
+      <point x="149" y="680" type="line"/>
+      <point x="100" y="680" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="892" type="line"/>
+      <point x="122" y="739" type="line"/>
+      <point x="158" y="739" type="line"/>
+      <point x="244" y="892" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

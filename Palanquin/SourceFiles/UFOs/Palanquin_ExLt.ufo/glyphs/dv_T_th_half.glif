@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Tth.half" format="1">
+  <advance width="706"/>
+  <outline>
+    <contour>
+      <point x="59" y="227" type="curve"/>
+      <point x="59" y="47"/>
+      <point x="201" y="-18"/>
+      <point x="358" y="-18" type="curve"/>
+      <point x="523" y="-18"/>
+      <point x="657" y="66"/>
+      <point x="657" y="229" type="curve"/>
+      <point x="657" y="398"/>
+      <point x="531" y="465"/>
+      <point x="385" y="473" type="curve"/>
+      <point x="385" y="633" type="line"/>
+      <point x="717" y="633" type="line"/>
+      <point x="702" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="327" y="633" type="line"/>
+      <point x="327" y="472" type="line"/>
+      <point x="176" y="461"/>
+      <point x="59" y="377"/>
+    </contour>
+    <contour>
+      <point x="358" y="32" type="curve"/>
+      <point x="223" y="32"/>
+      <point x="120" y="83"/>
+      <point x="120" y="227" type="curve"/>
+      <point x="120" y="355"/>
+      <point x="224" y="424"/>
+      <point x="358" y="424" type="curve"/>
+      <point x="493" y="424"/>
+      <point x="596" y="372"/>
+      <point x="596" y="229" type="curve"/>
+      <point x="596" y="101"/>
+      <point x="492" y="32"/>
+    </contour>
+    <contour>
+      <point x="520" y="-293" type="line"/>
+      <point x="551" y="-261" type="line"/>
+      <point x="356" y="-68" type="line"/>
+      <point x="315" y="-110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

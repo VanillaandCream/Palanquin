@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Highspacedot" format="1">
+  <advance width="157"/>
+  <unicode hex="0971"/>
+  <outline>
+    <contour>
+      <point x="34" y="295" type="curve"/>
+      <point x="34" y="271"/>
+      <point x="53" y="252"/>
+      <point x="78" y="252" type="curve"/>
+      <point x="103" y="252"/>
+      <point x="123" y="271"/>
+      <point x="123" y="295" type="curve"/>
+      <point x="123" y="321"/>
+      <point x="103" y="340"/>
+      <point x="78" y="340" type="curve"/>
+      <point x="53" y="340"/>
+      <point x="34" y="321"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraAa" format="1">
+  <advance width="308"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="183" y="-16" type="line"/>
+      <point x="183" y="633" type="line"/>
+      <point x="319" y="633" type="line"/>
+      <point x="303" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="125" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

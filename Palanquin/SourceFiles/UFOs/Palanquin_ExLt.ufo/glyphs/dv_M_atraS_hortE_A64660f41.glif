@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraShortEAnusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-292" y="838" type="curve"/>
+      <point x="-357" y="838"/>
+      <point x="-403" y="875"/>
+      <point x="-403" y="926" type="curve"/>
+      <point x="-459" y="941" type="line"/>
+      <point x="-459" y="926" type="line" smooth="yes"/>
+      <point x="-459" y="846"/>
+      <point x="-386" y="789"/>
+      <point x="-286" y="789" type="curve"/>
+      <point x="-215" y="789"/>
+      <point x="-176" y="748"/>
+      <point x="-176" y="697" type="curve"/>
+      <point x="-176" y="659" type="line"/>
+      <point x="-118" y="659" type="line"/>
+      <point x="-118" y="697" type="line" smooth="yes"/>
+      <point x="-118" y="774"/>
+      <point x="-187" y="837"/>
+    </contour>
+    <contour>
+      <point x="-101" y="804" type="curve"/>
+      <point x="-101" y="779"/>
+      <point x="-82" y="760"/>
+      <point x="-57" y="760" type="curve"/>
+      <point x="-32" y="760"/>
+      <point x="-12" y="779"/>
+      <point x="-12" y="804" type="curve"/>
+      <point x="-12" y="829"/>
+      <point x="-32" y="848"/>
+      <point x="-57" y="848" type="curve"/>
+      <point x="-82" y="848"/>
+      <point x="-101" y="829"/>
+    </contour>
+  </outline>
+</glyph>

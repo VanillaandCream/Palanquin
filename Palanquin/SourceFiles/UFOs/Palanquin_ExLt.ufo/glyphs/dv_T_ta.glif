@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Tta" format="1">
+  <advance width="611"/>
+  <unicode hex="091F"/>
+  <outline>
+    <contour>
+      <point x="358" y="31" type="curve"/>
+      <point x="223" y="31"/>
+      <point x="120" y="81"/>
+      <point x="120" y="227" type="curve"/>
+      <point x="120" y="355"/>
+      <point x="220" y="426"/>
+      <point x="370" y="426" type="curve"/>
+      <point x="495" y="426" type="line"/>
+      <point x="495" y="633" type="line"/>
+      <point x="622" y="633" type="line"/>
+      <point x="607" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="437" y="633" type="line"/>
+      <point x="437" y="475" type="line"/>
+      <point x="370" y="475" type="line" smooth="yes"/>
+      <point x="195" y="475"/>
+      <point x="58" y="393"/>
+      <point x="58" y="227" type="curve"/>
+      <point x="58" y="38"/>
+      <point x="204" y="-18"/>
+      <point x="358" y="-18" type="curve"/>
+      <point x="438" y="-18"/>
+      <point x="515" y="2"/>
+      <point x="566" y="41" type="curve"/>
+      <point x="558" y="94" type="line"/>
+      <point x="497" y="50"/>
+      <point x="432" y="31"/>
+    </contour>
+  </outline>
+</glyph>

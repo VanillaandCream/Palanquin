@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="220"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="485" type="line"/>
+      <point x="82" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="658" type="curve"/>
+      <point x="72" y="680"/>
+      <point x="53" y="697"/>
+      <point x="31" y="697" type="curve"/>
+      <point x="8" y="697"/>
+      <point x="-9" y="680"/>
+      <point x="-9" y="658" type="curve"/>
+      <point x="-9" y="635"/>
+      <point x="8" y="618"/>
+      <point x="31" y="618" type="curve"/>
+      <point x="53" y="618"/>
+      <point x="72" y="635"/>
+    </contour>
+    <contour>
+      <point x="230" y="658" type="curve"/>
+      <point x="230" y="680"/>
+      <point x="211" y="697"/>
+      <point x="189" y="697" type="curve"/>
+      <point x="166" y="697"/>
+      <point x="148" y="680"/>
+      <point x="148" y="658" type="curve"/>
+      <point x="148" y="635"/>
+      <point x="166" y="618"/>
+      <point x="189" y="618" type="curve"/>
+      <point x="211" y="618"/>
+      <point x="230" y="635"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="1">
+  <advance width="291"/>
+  <outline>
+    <contour>
+      <point x="60" y="740" type="line"/>
+      <point x="146" y="858" type="line"/>
+      <point x="229" y="740" type="line"/>
+      <point x="281" y="740" type="line"/>
+      <point x="165" y="893" type="line"/>
+      <point x="125" y="893" type="line"/>
+      <point x="10" y="740" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="702" type="move" name="_topU"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

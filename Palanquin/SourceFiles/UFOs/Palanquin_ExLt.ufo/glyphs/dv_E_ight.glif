@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Eight" format="1">
+  <advance width="551"/>
+  <unicode hex="096E"/>
+  <outline>
+    <contour>
+      <point x="286" y="31" type="curve"/>
+      <point x="189" y="31"/>
+      <point x="116" y="103"/>
+      <point x="116" y="202" type="curve"/>
+      <point x="116" y="335"/>
+      <point x="225" y="517"/>
+      <point x="371" y="651" type="curve"/>
+      <point x="336" y="694" type="line"/>
+      <point x="192" y="559"/>
+      <point x="55" y="361"/>
+      <point x="55" y="197" type="curve"/>
+      <point x="55" y="83"/>
+      <point x="132" y="-18"/>
+      <point x="277" y="-18" type="curve"/>
+      <point x="458" y="-18"/>
+      <point x="493" y="132"/>
+      <point x="493" y="200" type="curve"/>
+      <point x="443" y="215" type="line"/>
+      <point x="441" y="60"/>
+      <point x="347" y="31"/>
+    </contour>
+  </outline>
+</glyph>

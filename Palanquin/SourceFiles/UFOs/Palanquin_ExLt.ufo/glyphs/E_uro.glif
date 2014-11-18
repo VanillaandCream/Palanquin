@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="572"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="437" y="224" type="line"/>
+      <point x="431" y="269" type="line"/>
+      <point x="167" y="269" type="line"/>
+      <point x="165" y="290"/>
+      <point x="164" y="314"/>
+      <point x="164" y="337" type="curve"/>
+      <point x="164" y="360"/>
+      <point x="165" y="384"/>
+      <point x="167" y="406" type="curve"/>
+      <point x="437" y="406" type="line"/>
+      <point x="431" y="450" type="line"/>
+      <point x="175" y="450" type="line"/>
+      <point x="200" y="570"/>
+      <point x="270" y="645"/>
+      <point x="382" y="645" type="curve"/>
+      <point x="449" y="645"/>
+      <point x="470" y="633"/>
+      <point x="512" y="616" type="curve"/>
+      <point x="532" y="657" type="line"/>
+      <point x="494" y="683"/>
+      <point x="431" y="694"/>
+      <point x="382" y="694" type="curve"/>
+      <point x="225" y="694"/>
+      <point x="141" y="593"/>
+      <point x="114" y="450" type="curve"/>
+      <point x="15" y="450" type="line"/>
+      <point x="22" y="406" type="line"/>
+      <point x="108" y="406" type="line"/>
+      <point x="105" y="384"/>
+      <point x="103" y="359"/>
+      <point x="103" y="336" type="curve"/>
+      <point x="103" y="313"/>
+      <point x="104" y="290"/>
+      <point x="107" y="269" type="curve"/>
+      <point x="15" y="269" type="line"/>
+      <point x="22" y="224" type="line"/>
+      <point x="113" y="224" type="line"/>
+      <point x="136" y="89"/>
+      <point x="210" y="-14"/>
+      <point x="377" y="-14" type="curve"/>
+      <point x="437" y="-14"/>
+      <point x="494" y="3"/>
+      <point x="531" y="23" type="curve"/>
+      <point x="507" y="65" type="line"/>
+      <point x="472" y="49"/>
+      <point x="437" y="35"/>
+      <point x="373" y="35" type="curve"/>
+      <point x="255" y="35"/>
+      <point x="196" y="115"/>
+      <point x="174" y="224" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

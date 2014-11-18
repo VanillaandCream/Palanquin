@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ma" format="1">
+  <advance width="635"/>
+  <unicode hex="092E"/>
+  <outline>
+    <contour>
+      <point x="453" y="0" type="line"/>
+      <point x="511" y="-16" type="line"/>
+      <point x="511" y="633" type="line"/>
+      <point x="647" y="633" type="line"/>
+      <point x="631" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="114" y="633" type="line"/>
+      <point x="114" y="311" type="line"/>
+      <point x="79" y="311" type="line" smooth="yes"/>
+      <point x="58" y="311"/>
+      <point x="47" y="295"/>
+      <point x="47" y="276" type="curve" smooth="yes"/>
+      <point x="47" y="234"/>
+      <point x="91" y="184"/>
+      <point x="144" y="184" type="curve" smooth="yes"/>
+      <point x="163" y="184"/>
+      <point x="172" y="201"/>
+      <point x="172" y="228" type="curve" smooth="yes"/>
+      <point x="172" y="265" type="line"/>
+      <point x="453" y="265" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="633" type="line"/>
+      <point x="453" y="311" type="line"/>
+      <point x="173" y="311" type="line"/>
+      <point x="173" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

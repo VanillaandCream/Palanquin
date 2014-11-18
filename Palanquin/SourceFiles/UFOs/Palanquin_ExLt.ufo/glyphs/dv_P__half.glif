@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_P.half" format="1">
+  <advance width="326"/>
+  <outline>
+    <contour>
+      <point x="309" y="228" type="curve"/>
+      <point x="209" y="228"/>
+      <point x="154" y="287"/>
+      <point x="154" y="380" type="curve"/>
+      <point x="154" y="633" type="line"/>
+      <point x="337" y="633" type="line"/>
+      <point x="322" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="97" y="633" type="line"/>
+      <point x="97" y="387" type="line" smooth="yes"/>
+      <point x="97" y="255"/>
+      <point x="175" y="178"/>
+      <point x="306" y="178" type="curve"/>
+      <point x="367" y="178"/>
+      <point x="423" y="201"/>
+      <point x="453" y="234" type="curve"/>
+      <point x="453" y="361" type="line"/>
+      <point x="450" y="281"/>
+      <point x="396" y="228"/>
+    </contour>
+  </outline>
+</glyph>

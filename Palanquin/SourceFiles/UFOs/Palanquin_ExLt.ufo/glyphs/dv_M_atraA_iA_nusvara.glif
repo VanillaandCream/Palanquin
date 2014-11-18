@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraAiAnusvara" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-130" y="680" type="line"/>
+      <point x="-214" y="1017" type="line"/>
+      <point x="-270" y="993" type="line"/>
+      <point x="-195" y="756" type="line"/>
+      <point x="-270" y="849"/>
+      <point x="-325" y="855"/>
+      <point x="-399" y="855" type="curve"/>
+      <point x="-495" y="855" type="line"/>
+      <point x="-481" y="806" type="line"/>
+      <point x="-396" y="806" type="line" smooth="yes"/>
+      <point x="-340" y="806"/>
+      <point x="-295" y="801"/>
+      <point x="-226" y="725" type="curve"/>
+      <point x="-184" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="-108" y="797" type="curve"/>
+      <point x="-108" y="773"/>
+      <point x="-88" y="754"/>
+      <point x="-63" y="754" type="curve"/>
+      <point x="-38" y="754"/>
+      <point x="-18" y="773"/>
+      <point x="-18" y="797" type="curve"/>
+      <point x="-18" y="823"/>
+      <point x="-38" y="842"/>
+      <point x="-63" y="842" type="curve"/>
+      <point x="-88" y="842"/>
+      <point x="-108" y="823"/>
+    </contour>
+  </outline>
+</glyph>

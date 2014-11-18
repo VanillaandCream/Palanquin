@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraO" format="1">
+  <advance width="308"/>
+  <unicode hex="094B"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="183" y="-16" type="line"/>
+      <point x="183" y="633" type="line"/>
+      <point x="319" y="633" type="line"/>
+      <point x="303" y="680" type="line"/>
+      <point x="179" y="680" type="line"/>
+      <point x="-84" y="938" type="line"/>
+      <point x="-129" y="904" type="line"/>
+      <point x="115" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="125" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

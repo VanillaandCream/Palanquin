@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MTa" format="1">
+  <advance width="981"/>
+  <outline>
+    <contour>
+      <point x="798" y="0" type="line"/>
+      <point x="856" y="-16" type="line"/>
+      <point x="856" y="633" type="line"/>
+      <point x="992" y="633" type="line"/>
+      <point x="977" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="114" y="633" type="line"/>
+      <point x="114" y="311" type="line"/>
+      <point x="79" y="311" type="line" smooth="yes"/>
+      <point x="58" y="311"/>
+      <point x="47" y="295"/>
+      <point x="47" y="276" type="curve" smooth="yes"/>
+      <point x="47" y="234"/>
+      <point x="91" y="184"/>
+      <point x="144" y="184" type="curve" smooth="yes"/>
+      <point x="163" y="184"/>
+      <point x="172" y="201"/>
+      <point x="172" y="228" type="curve" smooth="yes"/>
+      <point x="172" y="265" type="line"/>
+      <point x="396" y="265" type="line"/>
+      <point x="409" y="175"/>
+      <point x="497" y="50"/>
+      <point x="546" y="-18" type="curve"/>
+      <point x="595" y="2" type="line"/>
+      <point x="542" y="85"/>
+      <point x="453" y="206"/>
+      <point x="453" y="288" type="curve" smooth="yes"/>
+      <point x="453" y="358"/>
+      <point x="498" y="401"/>
+      <point x="599" y="401" type="curve" smooth="yes"/>
+      <point x="798" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="798" y="448" type="line"/>
+      <point x="564" y="448" type="line" smooth="yes"/>
+      <point x="464" y="448"/>
+      <point x="403" y="390"/>
+      <point x="395" y="311" type="curve"/>
+      <point x="173" y="311" type="line"/>
+      <point x="173" y="633" type="line"/>
+      <point x="798" y="633" type="line"/>
+    </contour>
+  </outline>
+</glyph>

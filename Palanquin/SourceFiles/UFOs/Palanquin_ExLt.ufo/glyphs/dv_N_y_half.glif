@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ny.half" format="1">
+  <advance width="438"/>
+  <outline>
+    <contour>
+      <point x="449" y="633" type="line"/>
+      <point x="434" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="93" type="curve"/>
+      <point x="319" y="93"/>
+      <point x="410" y="152"/>
+      <point x="422" y="275" type="curve"/>
+      <point x="563" y="275" type="line"/>
+      <point x="563" y="321" type="line"/>
+      <point x="422" y="321" type="line"/>
+      <point x="413" y="456"/>
+      <point x="321" y="510"/>
+      <point x="208" y="510" type="curve"/>
+      <point x="167" y="510"/>
+      <point x="127" y="503"/>
+      <point x="93" y="492" type="curve"/>
+      <point x="107" y="445" type="line"/>
+      <point x="137" y="454"/>
+      <point x="174" y="461"/>
+      <point x="208" y="461" type="curve"/>
+      <point x="312" y="461"/>
+      <point x="363" y="400"/>
+      <point x="363" y="302" type="curve"/>
+      <point x="363" y="204"/>
+      <point x="305" y="143"/>
+      <point x="208" y="143" type="curve"/>
+      <point x="139" y="143"/>
+      <point x="79" y="166"/>
+      <point x="32" y="202" type="curve"/>
+      <point x="19" y="150" type="line"/>
+      <point x="62" y="120"/>
+      <point x="127" y="93"/>
+    </contour>
+  </outline>
+</glyph>

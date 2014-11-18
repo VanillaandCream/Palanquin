@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Graveaccent" format="1">
+  <advance width="0"/>
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="149" y="759" type="line"/>
+      <point x="88" y="939" type="line"/>
+      <point x="22" y="939" type="line"/>
+      <point x="110" y="759" type="line"/>
+    </contour>
+  </outline>
+</glyph>

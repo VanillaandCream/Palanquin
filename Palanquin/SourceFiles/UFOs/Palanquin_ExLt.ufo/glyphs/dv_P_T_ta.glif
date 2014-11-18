@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_PTta" format="1">
+  <advance width="572"/>
+  <outline>
+    <contour>
+      <point x="304" y="30" type="curve"/>
+      <point x="212" y="30"/>
+      <point x="151" y="83"/>
+      <point x="151" y="166" type="curve"/>
+      <point x="151" y="233"/>
+      <point x="195" y="291"/>
+      <point x="264" y="302" type="curve"/>
+      <point x="274" y="300"/>
+      <point x="284" y="300"/>
+      <point x="294" y="300" type="curve"/>
+      <point x="402" y="300"/>
+      <point x="485" y="368"/>
+      <point x="485" y="500" type="curve"/>
+      <point x="485" y="633" type="line"/>
+      <point x="584" y="633" type="line"/>
+      <point x="568" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="103" y="633" type="line"/>
+      <point x="103" y="500" type="line" smooth="yes"/>
+      <point x="103" y="417"/>
+      <point x="135" y="360"/>
+      <point x="186" y="328" type="curve"/>
+      <point x="125" y="294"/>
+      <point x="89" y="234"/>
+      <point x="89" y="165" type="curve"/>
+      <point x="89" y="46"/>
+      <point x="185" y="-19"/>
+      <point x="306" y="-19" type="curve"/>
+      <point x="375" y="-19"/>
+      <point x="438" y="2"/>
+      <point x="481" y="38" type="curve"/>
+      <point x="472" y="89" type="line"/>
+      <point x="421" y="49"/>
+      <point x="367" y="30"/>
+    </contour>
+    <contour>
+      <point x="294" y="350" type="curve"/>
+      <point x="215" y="350"/>
+      <point x="161" y="407"/>
+      <point x="161" y="498" type="curve"/>
+      <point x="161" y="633" type="line"/>
+      <point x="427" y="633" type="line"/>
+      <point x="427" y="498" type="line"/>
+      <point x="427" y="406"/>
+      <point x="375" y="350"/>
+    </contour>
+  </outline>
+</glyph>

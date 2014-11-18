@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Ra.post" format="1">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="183" y="-16" type="line"/>
+      <point x="183" y="633" type="line"/>
+      <point x="319" y="633" type="line"/>
+      <point x="303" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="125" y="633" type="line"/>
+      <point x="125" y="336" type="line"/>
+      <point x="-104" y="-4" type="line"/>
+      <point x="-42" y="-17" type="line"/>
+      <point x="125" y="251" type="line"/>
+    </contour>
+  </outline>
+</glyph>

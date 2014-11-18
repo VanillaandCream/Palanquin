@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraCandraE" format="1">
+  <advance width="0"/>
+  <unicode hex="0945"/>
+  <outline>
+    <contour>
+      <point x="377" y="925" type="line"/>
+      <point x="338" y="850"/>
+      <point x="282" y="813"/>
+      <point x="218" y="813" type="curve"/>
+      <point x="152" y="813"/>
+      <point x="95" y="850"/>
+      <point x="57" y="925" type="curve"/>
+      <point x="17" y="902" type="line"/>
+      <point x="62" y="813"/>
+      <point x="129" y="769"/>
+      <point x="218" y="769" type="curve"/>
+      <point x="304" y="769"/>
+      <point x="371" y="813"/>
+      <point x="417" y="902" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

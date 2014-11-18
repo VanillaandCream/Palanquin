@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_GlottalStop" format="1">
+  <advance width="540"/>
+  <unicode hex="097D"/>
+  <outline>
+    <contour>
+      <point x="488" y="499" type="curve"/>
+      <point x="488" y="603"/>
+      <point x="418" y="694"/>
+      <point x="273" y="694" type="curve"/>
+      <point x="185" y="694"/>
+      <point x="115" y="665"/>
+      <point x="64" y="629" type="curve"/>
+      <point x="72" y="576" type="line"/>
+      <point x="124" y="613"/>
+      <point x="190" y="643"/>
+      <point x="271" y="643" type="curve"/>
+      <point x="374" y="643"/>
+      <point x="427" y="586"/>
+      <point x="427" y="499" type="curve"/>
+      <point x="427" y="412"/>
+      <point x="338" y="332"/>
+      <point x="224" y="297" type="curve"/>
+      <point x="224" y="37" type="line"/>
+      <point x="282" y="19" type="line"/>
+      <point x="282" y="267" type="line"/>
+      <point x="410" y="311"/>
+      <point x="488" y="409"/>
+    </contour>
+  </outline>
+</glyph>

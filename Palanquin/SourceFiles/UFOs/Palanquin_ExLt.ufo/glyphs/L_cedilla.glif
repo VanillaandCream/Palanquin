@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcedilla" format="1">
+  <advance width="499"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="478" y="0" type="line"/>
+      <point x="473" y="44" type="line"/>
+      <point x="158" y="44" type="line"/>
+      <point x="158" y="680" type="line"/>
+      <point x="102" y="680" type="line"/>
+      <point x="102" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="-70" type="curve"/>
+      <point x="350" y="-43"/>
+      <point x="332" y="-21"/>
+      <point x="307" y="-21" type="curve"/>
+      <point x="281" y="-21"/>
+      <point x="264" y="-41"/>
+      <point x="264" y="-65" type="curve"/>
+      <point x="264" y="-83"/>
+      <point x="278" y="-106"/>
+      <point x="303" y="-107" type="curve"/>
+      <point x="301" y="-143"/>
+      <point x="277" y="-168"/>
+      <point x="244" y="-188" type="curve"/>
+      <point x="261" y="-215" type="line"/>
+      <point x="314" y="-189"/>
+      <point x="350" y="-130"/>
+    </contour>
+  </outline>
+</glyph>

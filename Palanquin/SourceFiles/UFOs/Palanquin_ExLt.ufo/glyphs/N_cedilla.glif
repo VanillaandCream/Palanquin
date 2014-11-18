@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncedilla" format="1">
+  <advance width="680"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="567" type="line"/>
+      <point x="172" y="538" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="579" y="680" type="line"/>
+      <point x="523" y="680" type="line"/>
+      <point x="523" y="120" type="line"/>
+      <point x="489" y="179" type="line"/>
+      <point x="137" y="680" type="line"/>
+      <point x="102" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="-69" type="curve"/>
+      <point x="387" y="-43"/>
+      <point x="370" y="-21"/>
+      <point x="344" y="-21" type="curve"/>
+      <point x="318" y="-21"/>
+      <point x="301" y="-41"/>
+      <point x="301" y="-64" type="curve"/>
+      <point x="301" y="-83"/>
+      <point x="316" y="-105"/>
+      <point x="341" y="-107" type="curve"/>
+      <point x="339" y="-143"/>
+      <point x="315" y="-167"/>
+      <point x="281" y="-187" type="curve"/>
+      <point x="298" y="-214" type="line"/>
+      <point x="352" y="-188"/>
+      <point x="387" y="-130"/>
+    </contour>
+  </outline>
+</glyph>

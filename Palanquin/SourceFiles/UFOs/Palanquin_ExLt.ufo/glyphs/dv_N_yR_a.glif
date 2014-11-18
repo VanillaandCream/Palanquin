@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_NyRa" format="1">
+  <advance width="750"/>
+  <outline>
+    <contour>
+      <point x="208" y="105" type="curve"/>
+      <point x="319" y="105"/>
+      <point x="410" y="165"/>
+      <point x="422" y="288" type="curve"/>
+      <point x="560" y="288" type="line"/>
+      <point x="250" y="-4" type="line"/>
+      <point x="295" y="-38" type="line"/>
+      <point x="568" y="223" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="626" y="-16" type="line"/>
+      <point x="626" y="633" type="line"/>
+      <point x="761" y="633" type="line"/>
+      <point x="746" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="633" type="line"/>
+      <point x="568" y="633" type="line"/>
+      <point x="568" y="334" type="line"/>
+      <point x="422" y="334" type="line"/>
+      <point x="413" y="468"/>
+      <point x="321" y="522"/>
+      <point x="208" y="522" type="curve"/>
+      <point x="167" y="522"/>
+      <point x="127" y="515"/>
+      <point x="93" y="504" type="curve"/>
+      <point x="107" y="457" type="line"/>
+      <point x="137" y="466"/>
+      <point x="174" y="473"/>
+      <point x="208" y="473" type="curve"/>
+      <point x="312" y="473"/>
+      <point x="363" y="412"/>
+      <point x="363" y="314" type="curve"/>
+      <point x="363" y="216"/>
+      <point x="305" y="155"/>
+      <point x="208" y="155" type="curve"/>
+      <point x="139" y="155"/>
+      <point x="79" y="178"/>
+      <point x="32" y="214" type="curve"/>
+      <point x="19" y="162" type="line"/>
+      <point x="62" y="132"/>
+      <point x="127" y="105"/>
+    </contour>
+  </outline>
+</glyph>

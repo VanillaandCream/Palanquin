@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_RakarMatraU" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="51" y="-149" type="line"/>
+      <point x="165" y="-25" type="line"/>
+      <point x="277" y="-149" type="line"/>
+      <point x="310" y="-119" type="line"/>
+      <point x="191" y="12" type="line"/>
+      <point x="137" y="12" type="line"/>
+      <point x="18" y="-119" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="-365" type="curve"/>
+      <point x="75" y="-365"/>
+      <point x="16" y="-309"/>
+      <point x="-50" y="-227" type="curve"/>
+      <point x="-86" y="-251" type="line"/>
+      <point x="-22" y="-351"/>
+      <point x="64" y="-411"/>
+      <point x="156" y="-411" type="curve"/>
+      <point x="241" y="-411"/>
+      <point x="311" y="-359"/>
+      <point x="311" y="-272" type="curve"/>
+      <point x="311" y="-185"/>
+      <point x="239" y="-133"/>
+      <point x="165" y="-133" type="curve"/>
+      <point x="109" y="-133" type="line"/>
+      <point x="109" y="-179" type="line"/>
+      <point x="157" y="-179" type="line" smooth="yes"/>
+      <point x="219" y="-179"/>
+      <point x="258" y="-221"/>
+      <point x="258" y="-272" type="curve"/>
+      <point x="258" y="-323"/>
+      <point x="224" y="-365"/>
+    </contour>
+  </outline>
+</glyph>

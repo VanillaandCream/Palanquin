@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Rakar" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="51" y="-149" type="line"/>
+      <point x="165" y="-25" type="line"/>
+      <point x="277" y="-149" type="line"/>
+      <point x="310" y="-119" type="line"/>
+      <point x="191" y="12" type="line"/>
+      <point x="137" y="12" type="line"/>
+      <point x="18" y="-119" type="line"/>
+    </contour>
+  </outline>
+</glyph>

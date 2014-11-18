@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_G.half" format="1">
+  <advance width="285"/>
+  <outline>
+    <contour>
+      <point x="179" y="641" type="line"/>
+      <point x="296" y="641" type="line"/>
+      <point x="280" y="680" type="line"/>
+      <point x="-11" y="680" type="line"/>
+      <point x="3" y="641" type="line"/>
+      <point x="131" y="641" type="line"/>
+      <point x="131" y="293" type="line"/>
+      <point x="96" y="293" type="line" smooth="yes"/>
+      <point x="78" y="293"/>
+      <point x="63" y="282"/>
+      <point x="63" y="264" type="curve" smooth="yes"/>
+      <point x="63" y="224"/>
+      <point x="104" y="180"/>
+      <point x="150" y="180" type="curve" smooth="yes"/>
+      <point x="169" y="180"/>
+      <point x="179" y="197"/>
+      <point x="179" y="225" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

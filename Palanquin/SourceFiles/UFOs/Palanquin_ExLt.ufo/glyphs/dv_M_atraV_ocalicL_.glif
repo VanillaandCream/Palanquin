@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraVocalicL" format="1">
+  <advance width="0"/>
+  <unicode hex="0962"/>
+  <outline>
+    <contour>
+      <point x="241" y="-138" type="line" smooth="yes"/>
+      <point x="241" y="-90"/>
+      <point x="273" y="-63"/>
+      <point x="306" y="-63" type="curve"/>
+      <point x="337" y="-63"/>
+      <point x="362" y="-86"/>
+      <point x="362" y="-118" type="curve"/>
+      <point x="362" y="-165"/>
+      <point x="313" y="-202"/>
+      <point x="313" y="-256" type="curve"/>
+      <point x="313" y="-290"/>
+      <point x="355" y="-305"/>
+      <point x="382" y="-305" type="curve"/>
+      <point x="395" y="-305" type="line"/>
+      <point x="406" y="-266" type="line"/>
+      <point x="397" y="-266" type="line" smooth="yes"/>
+      <point x="380" y="-266"/>
+      <point x="364" y="-262"/>
+      <point x="364" y="-246" type="curve"/>
+      <point x="364" y="-210"/>
+      <point x="414" y="-170"/>
+      <point x="414" y="-115" type="curve"/>
+      <point x="414" y="-63"/>
+      <point x="369" y="-18"/>
+      <point x="306" y="-18" type="curve"/>
+      <point x="267" y="-18"/>
+      <point x="229" y="-46"/>
+      <point x="215" y="-76" type="curve"/>
+      <point x="204" y="-44"/>
+      <point x="160" y="-18"/>
+      <point x="123" y="-18" type="curve"/>
+      <point x="64" y="-19"/>
+      <point x="17" y="-63"/>
+      <point x="17" y="-115" type="curve"/>
+      <point x="17" y="-181"/>
+      <point x="48" y="-237"/>
+      <point x="85" y="-305" type="curve"/>
+      <point x="131" y="-292" type="line"/>
+      <point x="109" y="-246"/>
+      <point x="68" y="-172"/>
+      <point x="68" y="-118" type="curve"/>
+      <point x="68" y="-89"/>
+      <point x="94" y="-63"/>
+      <point x="123" y="-63" type="curve"/>
+      <point x="157" y="-63"/>
+      <point x="189" y="-85"/>
+      <point x="190" y="-138" type="curve"/>
+      <point x="190" y="-191" type="line"/>
+      <point x="241" y="-204" type="line"/>
+    </contour>
+  </outline>
+</glyph>

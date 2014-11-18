@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde" format="1">
+  <advance width="592"/>
+  <unicode hex="00C3"/>
+  <outline>
+    <contour>
+      <point x="313" y="680" type="line"/>
+      <point x="267" y="680" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="146" y="213" type="line"/>
+      <point x="441" y="213" type="line"/>
+      <point x="522" y="0" type="line"/>
+      <point x="572" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="614" type="line"/>
+      <point x="427" y="252" type="line"/>
+      <point x="160" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="758"/>
+      <point x="428" y="786"/>
+      <point x="428" y="849" type="curve"/>
+      <point x="390" y="849" type="line"/>
+      <point x="387" y="818"/>
+      <point x="373" y="796"/>
+      <point x="345" y="796" type="curve" smooth="yes"/>
+      <point x="310" y="796"/>
+      <point x="288" y="853"/>
+      <point x="232" y="853" type="curve" smooth="yes"/>
+      <point x="186" y="853"/>
+      <point x="149" y="825"/>
+      <point x="149" y="762" type="curve"/>
+      <point x="188" y="762" type="line"/>
+      <point x="191" y="793"/>
+      <point x="204" y="815"/>
+      <point x="233" y="815" type="curve" smooth="yes"/>
+      <point x="267" y="815"/>
+      <point x="299" y="758"/>
+      <point x="345" y="758" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

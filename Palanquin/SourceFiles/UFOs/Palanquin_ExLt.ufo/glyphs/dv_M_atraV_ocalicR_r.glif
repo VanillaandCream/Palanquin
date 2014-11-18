@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_MatraVocalicRr" format="1">
+  <advance width="0"/>
+  <unicode hex="0944"/>
+  <outline>
+    <contour>
+      <point x="-264" y="-100" type="curve"/>
+      <point x="-264" y="-125"/>
+      <point x="-240" y="-151"/>
+      <point x="-224" y="-156" type="curve"/>
+      <point x="-245" y="-166"/>
+      <point x="-264" y="-188"/>
+      <point x="-264" y="-214" type="curve"/>
+      <point x="-264" y="-273"/>
+      <point x="-211" y="-293"/>
+      <point x="-164" y="-293" type="curve"/>
+      <point x="-145" y="-293" type="line"/>
+      <point x="-123" y="-253" type="line"/>
+      <point x="-153" y="-253" type="line" smooth="yes"/>
+      <point x="-198" y="-253"/>
+      <point x="-214" y="-238"/>
+      <point x="-214" y="-214" type="curve"/>
+      <point x="-214" y="-190"/>
+      <point x="-191" y="-175"/>
+      <point x="-151" y="-175" type="curve"/>
+      <point x="-124" y="-137" type="line"/>
+      <point x="-156" y="-137" type="line" smooth="yes"/>
+      <point x="-185" y="-137"/>
+      <point x="-212" y="-123"/>
+      <point x="-212" y="-99" type="curve"/>
+      <point x="-212" y="-73"/>
+      <point x="-185" y="-59"/>
+      <point x="-156" y="-59" type="curve"/>
+      <point x="-123" y="-59" type="line"/>
+      <point x="-123" y="-18" type="line"/>
+      <point x="-164" y="-18" type="line" smooth="yes"/>
+      <point x="-211" y="-18"/>
+      <point x="-264" y="-39"/>
+    </contour>
+  </outline>
+</glyph>

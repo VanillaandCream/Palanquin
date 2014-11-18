@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dv_Abbreviation" format="1">
+  <advance width="560"/>
+  <unicode hex="0970"/>
+  <outline>
+    <contour>
+      <point x="508" y="281" type="curve"/>
+      <point x="508" y="412"/>
+      <point x="407" y="514"/>
+      <point x="281" y="514" type="curve"/>
+      <point x="151" y="514"/>
+      <point x="52" y="415"/>
+      <point x="52" y="287" type="curve"/>
+      <point x="52" y="153"/>
+      <point x="151" y="51"/>
+      <point x="280" y="51" type="curve"/>
+      <point x="407" y="51"/>
+      <point x="508" y="153"/>
+    </contour>
+    <contour>
+      <point x="452" y="283" type="curve"/>
+      <point x="452" y="184"/>
+      <point x="381" y="99"/>
+      <point x="280" y="99" type="curve"/>
+      <point x="179" y="99"/>
+      <point x="109" y="184"/>
+      <point x="109" y="283" type="curve"/>
+      <point x="109" y="381"/>
+      <point x="180" y="465"/>
+      <point x="280" y="465" type="curve"/>
+      <point x="380" y="465"/>
+      <point x="452" y="381"/>
+    </contour>
+  </outline>
+</glyph>
