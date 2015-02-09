@@ -5,7 +5,6 @@ Script specific GSub stuff
 Side bearing was wrong in one glyph
 Fix width of Ha
 Maybe style specific GSUB
-Basic Kerning for the Latin
 Ha width
 E height
 Gha and Dha waver
